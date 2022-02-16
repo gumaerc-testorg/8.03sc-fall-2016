@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part I: Mechanical Vibrations and Waves'
+parent_type: CourseSection
 parent_uid: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
 title: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'
 uid: 4f5f49df-08e6-7313-a6c5-d113aba431c2

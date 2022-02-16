@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Problem Solving Help Videos
 uid: b6ee7c44-6a3a-2ad7-fbfc-44db748bf0a4
 ---

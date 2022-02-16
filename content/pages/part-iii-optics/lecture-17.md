@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part III: Optics'
+parent_type: CourseSection
 parent_uid: 56206522-3db4-e5d1-3c01-86ef14e4db6a
 title: 'Lecture 17: Polarization, Polarizer'
 uid: 4fe00c67-1241-2ec8-3b0f-40f5818b9a6d

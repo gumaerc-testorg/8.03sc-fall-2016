@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b0cb2786ccdbdc8f1d8ba88ff8a96d24_exam_final.jpg
+file: /media/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b0cb2786ccdbdc8f1d8ba88ff8a96d24_exam_final.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Final Exam
+parent_type: CourseSection
 resourcetype: Image
 title: exam_final.jpg
 uid: b0cb2786-ccdb-dc8f-1d8b-a88ff8a96d24

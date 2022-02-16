@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part III: Optics'
+parent_type: CourseSection
 parent_uid: 56206522-3db4-e5d1-3c01-86ef14e4db6a
 title: 'Lecture 21: Phased Radar, Single Electron Interference'
 uid: babd702c-f112-1939-a9e0-c02a1d617ddb

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part I: Mechanical Vibrations and Waves'
+parent_type: CourseSection
 parent_uid: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
 title: 'Lecture 2: Damped Free Oscillators'
 uid: de60ad23-ec34-c2de-5ad0-d3eca23fb1e5

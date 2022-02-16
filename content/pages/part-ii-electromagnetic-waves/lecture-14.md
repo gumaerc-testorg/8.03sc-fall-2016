@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part II: Electromagnetic Waves'
+parent_type: CourseSection
 parent_uid: 240ff61b-57c2-3024-881e-75e9a0e68cde
 title: 'Lecture 14: Fourier Transform, AM Radio'
 uid: c1476a90-000b-a128-f6d1-3a5e4049fafb

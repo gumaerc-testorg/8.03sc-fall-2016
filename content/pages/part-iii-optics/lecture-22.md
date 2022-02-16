@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part III: Optics'
+parent_type: CourseSection
 parent_uid: 56206522-3db4-e5d1-3c01-86ef14e4db6a
 title: 'Lecture 22: Diffraction, Resolution'
 uid: 3bf321ed-8bb2-61b1-4279-a2276aff6f51

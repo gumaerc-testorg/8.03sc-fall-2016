@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5651132359b26f6df21c409799ab4d83_lecture12.jpg
+file: /media/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5651132359b26f6df21c409799ab4d83_lecture12.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Image
 title: lecture12.jpg
 uid: 56511323-59b2-6f6d-f21c-409799ab4d83

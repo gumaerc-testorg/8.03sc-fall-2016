@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/069aacb58e204d2f5bf7d3613fe42e18_MIT8_03SCF16_hw_Lec21.pdf
+file: /media/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/069aacb58e204d2f5bf7d3613fe42e18_MIT8_03SCF16_hw_Lec21.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Lecture 21: Phased Radar, Single Electron Interference'
+parent_type: CourseSection
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 21: Phased Radar, Single Electron Interference'
 uid: 069aacb5-8e20-4d2f-5bf7-d3613fe42e18

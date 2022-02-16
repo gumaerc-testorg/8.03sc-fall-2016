@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/7d6c5392fed8e76828cfc24da9e122b2_VkbtIDSHfSc.srt
+file: /media/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/7d6c5392fed8e76828cfc24da9e122b2_VkbtIDSHfSc.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 7d6c5392-fed8-e768-28cf-c24da9e122b2

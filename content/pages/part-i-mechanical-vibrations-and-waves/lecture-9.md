@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part I: Mechanical Vibrations and Waves'
+parent_type: CourseSection
 parent_uid: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
 title: 'Lecture 9: Wave Equation, Standing Waves, Fourier Series'
 uid: de998eb5-074b-7df1-3d10-3d14ca8b2ced

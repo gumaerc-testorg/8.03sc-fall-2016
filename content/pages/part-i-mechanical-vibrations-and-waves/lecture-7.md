@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part I: Mechanical Vibrations and Waves'
+parent_type: CourseSection
 parent_uid: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
 title: 'Lecture 7: Symmetry, Infinite Number of Coupled Oscillators'
 uid: aa7bcfd6-ec86-3e35-a88d-1a5eba2076b6

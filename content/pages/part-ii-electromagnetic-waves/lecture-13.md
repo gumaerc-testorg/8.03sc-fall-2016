@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part II: Electromagnetic Waves'
+parent_type: CourseSection
 parent_uid: 240ff61b-57c2-3024-881e-75e9a0e68cde
 title: 'Lecture 13: Dispersive Medium, Phase Velocity, Group Velocity'
 uid: f4a13423-bdd7-a179-65ce-b0f19b5833d3

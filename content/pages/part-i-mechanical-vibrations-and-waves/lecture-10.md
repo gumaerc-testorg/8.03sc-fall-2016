@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part I: Mechanical Vibrations and Waves'
+parent_type: CourseSection
 parent_uid: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
 title: 'Lecture 10: Traveling Waves'
 uid: 0a9b6b96-2334-ae0f-2624-60bcb2eaa2d6

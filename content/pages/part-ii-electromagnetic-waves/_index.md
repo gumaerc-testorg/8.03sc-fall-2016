@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Part II: Electromagnetic Waves'
 uid: 240ff61b-57c2-3024-881e-75e9a0e68cde
 ---

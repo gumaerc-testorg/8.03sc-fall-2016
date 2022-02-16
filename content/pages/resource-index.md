@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Resource Index
 uid: 6e929eb1-7b68-6d35-70ea-402ec87c9a4b
 ---
@@ -14,7 +16,7 @@ Instructor Insights
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 INSTRUCTOR INSIGHTS VIDEOS
 {{< thclose >}}
 
@@ -25,23 +27,23 @@ INSTRUCTOR INSIGHTS VIDEOS
 {{< tdopen >}}
 
 
-*   Students’ Common Misconceptions
-*   Making Time for Individual Questions in a Large Lecture
-*   Using Humor to Enhance Learning
-*   Using Demonstrations in Class
-*   Behind-the-Scenes Demo Prep
-*   Taking a Vote to Engage Learners
+*   [Students’ Common Misconceptions]({{< baseurl >}}/resources/students2019-common-misconceptions)
+*   [Making Time for Individual Questions in a Large Lecture]({{< baseurl >}}/resources/making-time-for-individual-questions-in-a-large-lecture)
+*   [Using Humor to Enhance Learning]({{< baseurl >}}/resources/using-humor-to-enhance-learning)
+*   [Using Demonstrations in Class]({{< baseurl >}}/resources/using-demonstrations-in-class)
+*   [Behind-the-Scenes Demo Prep]({{< baseurl >}}/resources/behind-the-scenes-demo-prep)
+*   [Taking a Vote to Engage Learners]({{< baseurl >}}/resources/taking-a-vote-to-engage-learners)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-*   Combining Chalk Talks and Slides in a Complementary Way
-*   Using Questionnaires to Customize Course Content
-*   The Role of Recitations
-*   Course Iteration: Incorporating Theoretical Content and Demonstrations
-*   Tips for Physics Educators
+*   [Combining Chalk Talks and Slides in a Complementary Way]({{< baseurl >}}/resources/combining-chalk-talks-and-slides-in-a-complementary-way)
+*   [Using Questionnaires to Customize Course Content]({{< baseurl >}}/resources/using-questionnaires-to-customize-course-content)
+*   [The Role of Recitations]({{< baseurl >}}/resources/the-role-of-recitations)
+*   [Course Iteration: Incorporating Theoretical Content and Demonstrations]({{< baseurl >}}/resources/course-iteration)
+*   [Tips for Physics Educators]({{< baseurl >}}/resources/tips-for-physics-educators)
 
 
 {{< tdclose >}}
@@ -479,7 +481,7 @@ None
 
 [Practice Exam 1 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practiceexam1)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Practice Exam 1 Solutions (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practiceexam1_solutions)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)
 
 
 {{< tdclose >}}
@@ -883,7 +885,7 @@ None
 
 [Practice Exam 2 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practiceexam2)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Practice Exam 2 Solutions (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practiceexam2_solutions)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)
 
 
 {{< tdclose >}}
@@ -1161,11 +1163,7 @@ SOLUTIONS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Practice Final Exam 1 Solutions (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_practicefinalexam1_solutions)
-
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Practice Final Exam 2 Solutions (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practicefinalexam2_solutions)
-
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Practice Final Exam 3 Solutions (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practicefinalexam3_solutions)
+\<not available>
 
 
 {{< tdclose >}}

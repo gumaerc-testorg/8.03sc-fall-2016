@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/eeedf569bccb5ddd18a08cc54c2f7beb_MIT8_03SCF16_Text_Ch11.pdf
+file: /media/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/eeedf569bccb5ddd18a08cc54c2f7beb_MIT8_03SCF16_Text_Ch11.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: MIT8_03SCF16_Text_Ch11.pdf
 uid: eeedf569-bccb-5ddd-18a0-8cc54c2f7beb

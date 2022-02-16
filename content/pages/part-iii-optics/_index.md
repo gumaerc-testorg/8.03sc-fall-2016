@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Part III: Optics'
 uid: 56206522-3db4-e5d1-3c01-86ef14e4db6a
 ---

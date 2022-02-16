@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part III: Optics'
+parent_type: CourseSection
 parent_uid: 56206522-3db4-e5d1-3c01-86ef14e4db6a
 title: Exam 2
 uid: fbfb11df-c87e-8464-a19b-8f26fb75c77d
@@ -40,11 +43,11 @@ What You Should Know:
 *   Dispersive medium: Dispersive relation, Fourier transform, AM radio and Uncertainty Principle
 *   2D and 3D waves: Normal modes, Snell’s Law
 
-Practice Exam and Solutions
----------------------------
+Practice Exam
+-------------
 
 ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Exam 2 Formula Sheet (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_exam2_formula)  
 [Practice Exam 2 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practiceexam2)  
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Practice Exam 2 Solutions (PDF)]({{< baseurl >}}/resources/mit8_03scf16_practiceexam2_solutions)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)
 
 « [Previous]({{< baseurl >}}/pages/part-iii-optics/lecture-17) | [Next]({{< baseurl >}}/pages/part-iii-optics/lecture-18) »

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/52ff0e5497985f8ea7491dc3cc19d970_SnNmbVH5DAM.pdf
+file: /media/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/52ff0e5497985f8ea7491dc3cc19d970_SnNmbVH5DAM.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 52ff0e54-9798-5f8e-a749-1dc3cc19d970

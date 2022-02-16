@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part II: Electromagnetic Waves'
+parent_type: CourseSection
 parent_uid: 240ff61b-57c2-3024-881e-75e9a0e68cde
 title: 'Lecture 15: Uncertainty Principle, 2D Waves'
 uid: 57be2ced-3a20-f9a7-fa7c-61386e73f839

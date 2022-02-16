@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 04ff44e4-0d34-09c8-726b-f5bd29021df8
 ---
@@ -45,28 +47,6 @@ GIR ![General Institute Requirements](/images/educator/icon-question-gir.png)
 ### Offered
 
 Every fall and spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Tiered lecture seats facing three sets of sliding chalkboards. A large window on the left wall.]({{< resource_file 5e828780-3ae2-5e62-ff08-0c7d060d1985 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with tiered seating, sliding chalkboards, an AV system, and an assisted listening device.
-    
-*   ![4 rows of white tables and black chairs facing a 2 sets of sliding chalkboards. A window on the left wall.]({{< resource_file c4535f42-b055-45c4-ef20-fd941da57d4f >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations were held in smaller classrooms with moveable tables and chairs, sliding chalkboards, and AV systems.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

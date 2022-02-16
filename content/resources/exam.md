@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/18db80b82a68afb6dcbea33a17fc10ac_exam.jpg
+file: /media/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/18db80b82a68afb6dcbea33a17fc10ac_exam.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Part I: Mechanical Vibrations and Waves'
+parent_type: CourseSection
 resourcetype: Image
 title: exam.jpg
 uid: 18db80b8-2a68-afb6-dcbe-a33a17fc10ac

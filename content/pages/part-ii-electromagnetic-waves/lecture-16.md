@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part II: Electromagnetic Waves'
+parent_type: CourseSection
 parent_uid: 240ff61b-57c2-3024-881e-75e9a0e68cde
 title: 'Lecture 16: 2D and 3D Waves, Snell''s Law'
 uid: c84dbaf3-57b2-e84b-1aa1-aa8cea794c86
