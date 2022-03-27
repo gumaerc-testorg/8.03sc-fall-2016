@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 20: Interference, Soap Bubble'
 parent_type: CourseSection
+parent_uid: 421db63c-9b50-ba46-6bc2-9ae6df431a14
 resourcetype: Document
 title: MIT 8.03SC Fall 2016 Problem Set 10
 uid: c77a7773-5dfc-b300-8b96-00d8f4987cbd

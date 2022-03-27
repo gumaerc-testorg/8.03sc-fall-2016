@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture Video 13: Dispersive Medium, Phase Velocity, Group Velocity'
 uid: 1852b25a-92e7-ed02-97f6-5149bb01f20d
 video_files:

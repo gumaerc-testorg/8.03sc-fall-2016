@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exam 2
 parent_type: CourseSection
+parent_uid: fbfb11df-c87e-8464-a19b-8f26fb75c77d
 resourcetype: Document
 title: MIT 8.03SC Fall 2016 Practice Exam 2 Solutions
 uid: a593bcba-4a96-5cb5-d0de-9cb1233ad356

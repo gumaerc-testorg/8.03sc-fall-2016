@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 3: Driven Oscillators, Transient Phenomena, Resonance'
 parent_type: CourseSection
+parent_uid: f635ac92-fa89-71e3-6819-2518b537eb93
 resourcetype: Document
 title: MIT8_03SCF16_Lec3.pdf
 uid: d07bffb5-1503-76ad-8bc9-42566f327f1d

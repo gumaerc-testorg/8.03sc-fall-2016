@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture Video 9: Wave Equation, Standing Waves, Fourier Series'
 uid: 43ffe82b-1837-588b-69f6-fbd0edc51654
 video_files:

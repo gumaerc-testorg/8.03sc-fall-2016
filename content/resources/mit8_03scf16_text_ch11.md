@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: b58121fc-044c-a70b-f31e-fe5baa5b87f6
 resourcetype: Document
 title: MIT8_03SCF16_Text_Ch11.pdf
 uid: eeedf569-bccb-5ddd-18a0-8cc54c2f7beb

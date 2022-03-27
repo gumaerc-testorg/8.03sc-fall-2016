@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: b58121fc-044c-a70b-f31e-fe5baa5b87f6
 resourcetype: Image
 title: guitar3.jpg
 uid: 4e233bc7-ec46-7c59-7b75-95391d6a7340

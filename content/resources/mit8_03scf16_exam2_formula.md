@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Exam 2
 parent_type: CourseSection
+parent_uid: fbfb11df-c87e-8464-a19b-8f26fb75c77d
 resourcetype: Document
 title: MIT 8.03SC Fall 2016 Exam 1 Formula Sheet
 uid: 7ae2a57a-878f-7d97-8f33-179c983a6008

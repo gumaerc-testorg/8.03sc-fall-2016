@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 3: Driven Oscillators, Transient Phenomena, Resonance'
 parent_type: CourseSection
+parent_uid: f635ac92-fa89-71e3-6819-2518b537eb93
 resourcetype: Document
 title: HowardGeorgiWaves.pdf
 uid: b6ac40e4-7d6a-8b8c-2642-f174622785b1

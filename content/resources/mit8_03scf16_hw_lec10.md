@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 10: Traveling Waves'
 parent_type: CourseSection
+parent_uid: 0a9b6b96-2334-ae0f-2624-60bcb2eaa2d6
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 10: Traveling Waves'
 uid: 63f6b1b5-b69c-9fbd-1074-2e1da53020e3

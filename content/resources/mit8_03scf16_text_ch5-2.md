@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 8: Translation Symmetry'
 parent_type: CourseSection
+parent_uid: ca53d2a9-7539-9f6f-97d2-cbedae117060
 resourcetype: Document
 title: MIT8_03SCF16_Text_Ch5.pdf
 uid: 5ddba88d-52df-15ae-5414-bf5d70e639ca

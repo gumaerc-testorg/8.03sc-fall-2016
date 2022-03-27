@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 6: Driven Oscillators, Resonance'
 parent_type: CourseSection
+parent_uid: cf85feed-f452-d089-3365-f5c9eca3acb0
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 6: Driven Oscillators, Resonance'
 uid: f1e380d9-4ed3-dcc5-391b-82af69cc90e2

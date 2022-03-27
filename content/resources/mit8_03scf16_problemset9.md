@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 19: Waves in Medium'
 parent_type: CourseSection
+parent_uid: e069a26e-f953-d236-dc90-bcdcb2466c4e
 resourcetype: Document
 title: MIT 8.03SC Fall 2016 Problem Set 9
 uid: a0f581f5-339d-b967-11d2-92950a9b233a

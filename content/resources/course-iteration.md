@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Course Iteration: Incorporating Theoretical Content and Demonstrations'
 uid: b55c02a8-6ffa-5a6e-f25d-5f8d0323aa86
 video_files:

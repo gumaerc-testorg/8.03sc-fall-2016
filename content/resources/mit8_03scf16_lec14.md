@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 14: Fourier Transform, AM Radio'
 parent_type: CourseSection
+parent_uid: c1476a90-000b-a128-f6d1-3a5e4049fafb
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 14: Fourier Transform, AM Radio'
 uid: 475ba537-68d6-f97b-eb5c-45c907ba9907

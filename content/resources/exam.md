@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Part I: Mechanical Vibrations and Waves'
 parent_type: CourseSection
+parent_uid: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
 resourcetype: Image
 title: exam.jpg
 uid: 18db80b8-2a68-afb6-dcbe-a33a17fc10ac

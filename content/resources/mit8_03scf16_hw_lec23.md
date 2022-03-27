@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 23: Quantum Waves and Gravitational Waves'
 parent_type: CourseSection
+parent_uid: 95fe7702-7ee0-466a-a181-80c31fa40386
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 23: Diffraction, Resolution'
 uid: cb216c88-24a9-16dd-d90a-a5b2bcd874f4

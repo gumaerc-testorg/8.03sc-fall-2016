@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: b58121fc-044c-a70b-f31e-fe5baa5b87f6
 resourcetype: Document
 title: HowardGeorgiWaves.pdf
 uid: 782069da-3820-fc51-4c10-c26ae0c15b01

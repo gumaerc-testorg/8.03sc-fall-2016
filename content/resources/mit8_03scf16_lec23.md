@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 23: Quantum Waves and Gravitational Waves'
 parent_type: CourseSection
+parent_uid: 95fe7702-7ee0-466a-a181-80c31fa40386
 resourcetype: Document
 title: Lecture 24
 uid: e64d8ea1-ba08-d31d-cdf1-cda1cec619be

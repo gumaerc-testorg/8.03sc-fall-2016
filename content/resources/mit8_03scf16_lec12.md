@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 12: Maxwell''s Equation, Electromagnetic Waves'
 parent_type: CourseSection
+parent_uid: 44d635cc-e8fd-d43a-e899-5f001ae3388c
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 12: Maxwell''s Equation, Electromagnetic Waves'
 uid: fe0a5838-3641-6700-c023-ad11a680a0de

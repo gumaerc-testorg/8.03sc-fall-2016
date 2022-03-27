@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'
 parent_type: CourseSection
+parent_uid: 4f5f49df-08e6-7313-a6c5-d113aba431c2
 resourcetype: Image
 title: img.jpg
 uid: a2c680d0-fd04-5d16-2490-fbfbc2b52ef0

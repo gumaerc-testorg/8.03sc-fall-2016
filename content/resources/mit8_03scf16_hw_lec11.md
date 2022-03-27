@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 11: Sound Waves'
 parent_type: CourseSection
+parent_uid: 255269d4-70c4-990b-3edd-8effa5e8213a
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 11: Sound Waves'
 uid: d6bc895c-0130-0844-f90a-66092910e8fe

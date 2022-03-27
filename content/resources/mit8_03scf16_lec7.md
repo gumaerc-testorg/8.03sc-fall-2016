@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 7: Symmetry, Infinite Number of Coupled Oscillators'
 parent_type: CourseSection
+parent_uid: aa7bcfd6-ec86-3e35-a88d-1a5eba2076b6
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 7: Symmetry, Infinite Number of Coupled Oscillators'
 uid: 7440c1aa-9211-d0d2-6f3b-25746883790f

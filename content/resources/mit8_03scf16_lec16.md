@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 16: 2D and 3D Waves, Snell''s Law'
 parent_type: CourseSection
+parent_uid: c84dbaf3-57b2-e84b-1aa1-aa8cea794c86
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 16: 2D and 3D Waves, Snell''s Law'
 uid: f67b24f6-bfd8-6832-5d42-235e696a3420

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 9: Wave Equation, Standing Waves, Fourier Series'
 parent_type: CourseSection
+parent_uid: de998eb5-074b-7df1-3d10-3d14ca8b2ced
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 9: Wave Equation, Standing Waves, Fourier Series'
 uid: e4278fad-9bdd-90bc-05f1-63fd7f670f65

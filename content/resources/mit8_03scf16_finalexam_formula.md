@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
+parent_uid: 40206992-200d-017e-ca64-aac5b6b7d1e4
 resourcetype: Document
 title: MIT 8.03SC Fall 2016 Final Exam Formula Sheet
 uid: c9296743-d8d2-167b-fbeb-6b0b93c28cf6

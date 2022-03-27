@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture Video 3: Driven Oscillators, Transient Phenomena, Resonance'
 uid: 2f96695d-2424-1c3c-ef42-f37c3a3116c8
 video_files:

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 5: Beat Phenomena'
 parent_type: CourseSection
+parent_uid: 9bc91332-1f00-f352-65f3-aede3364abeb
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 5: Beat Phenomena'
 uid: fd478caf-ea8a-a5cc-a86a-02f31c54dc02

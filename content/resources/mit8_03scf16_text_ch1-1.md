@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'
 parent_type: CourseSection
+parent_uid: 4f5f49df-08e6-7313-a6c5-d113aba431c2
 resourcetype: Document
 title: MIT8_03SCF16_Text_Ch1.pdf
 uid: 8eb46d08-1c5b-a472-8cbb-b369a03ba45e

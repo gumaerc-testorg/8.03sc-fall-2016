@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 2: Damped Free Oscillators'
 parent_type: CourseSection
+parent_uid: de60ad23-ec34-c2de-5ad0-d3eca23fb1e5
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 2: Damped Free Oscillators'
 uid: 7d59f030-fe17-d65a-c52e-99f715163e98

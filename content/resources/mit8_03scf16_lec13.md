@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 13: Dispersive Medium, Phase Velocity, Group Velocity'
 parent_type: CourseSection
+parent_uid: f4a13423-bdd7-a179-65ce-b0f19b5833d3
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 13: Dispersive Medium, Phase Velocity, Group
   Velocity'

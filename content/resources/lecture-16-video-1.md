@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture Video 16: 2D and 3D Waves, Snell\u2019s Law"
 uid: b412225b-142e-ef57-3f06-d8e04ca72069
 video_files:

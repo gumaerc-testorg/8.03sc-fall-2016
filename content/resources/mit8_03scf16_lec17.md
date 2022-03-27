@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 17: Polarization, Polarizer'
 parent_type: CourseSection
+parent_uid: 4fe00c67-1241-2ec8-3b0f-40f5818b9a6d
 resourcetype: Document
 title: 'MIT 8.03SC Fall 2016 Lecture 17: Polarization, Polarizer'
 uid: 1b5b31e4-e993-1e02-2d9c-87c9d0854216

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Part III: Optics'
 parent_type: CourseSection
+parent_uid: 56206522-3db4-e5d1-3c01-86ef14e4db6a
 resourcetype: Image
 title: exam2.jpg
 uid: 18418a4b-92d5-8aa5-c3cf-bff33e031a07

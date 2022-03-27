@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Lecture 11: Sound Waves'
 parent_type: CourseSection
+parent_uid: 255269d4-70c4-990b-3edd-8effa5e8213a
 resourcetype: Document
 title: MIT 8.03SC Fall 2016 Problem Set 6
 uid: 0f9b38b4-e5dc-70ad-664a-073055be5785
