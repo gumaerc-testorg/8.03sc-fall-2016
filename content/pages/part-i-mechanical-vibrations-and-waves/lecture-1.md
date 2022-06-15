@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: ''
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part I: Mechanical Vibrations and Waves'
@@ -7,107 +9,59 @@ parent_type: CourseSection
 parent_uid: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
 title: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'
 uid: 4f5f49df-08e6-7313-a6c5-d113aba431c2
+video_metadata:
+  youtube_id: null
 ---
+« {{% resource_link "6682a3d1-6397-6bcb-b2fb-e67db27d8f04" "Previous" %}} | {{% resource_link "de60ad23-ec34-c2de-5ad0-d3eca23fb1e5" "Next" %}} »
 
-« [Previous]({{< baseurl >}}/pages/part-i-mechanical-vibrations-and-waves) | [Next]({{< baseurl >}}/pages/part-i-mechanical-vibrations-and-waves/lecture-2) »
+## Lecture Topics
 
-Lecture Topics
---------------
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{< resource uuid="3819fcaf-fb7a-61a8-fe18-e8ee80bdfb64" >}}
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-![]({{< resource_file 3819fcaf-fb7a-61a8-fe18-e8ee80bdfb64 >}})
-{{< tdclose >}}
-{{< tdopen >}}
+- Periodic motion
+- Simple harmonic oscillators
+- Hooke’s Law
 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-*   Periodic motion
-*   Simple harmonic oscillators
-*   Hooke’s Law
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Lecture Video: Periodic Oscillations, Harmonic Oscillators
-----------------------------------------------------------
+## Lecture Video: Periodic Oscillations, Harmonic Oscillators
 
 In this lecture, Prof. Lee discusses the mathematical description of the periodic oscillation and simple harmonic oscillators. The first 5 minutes are devoted to course information.
 
-{{< resource 54dfea64-4e01-fba0-0cfd-b9d903f9fb90 >}}
+{{< resource uuid="54dfea64-4e01-fba0-0cfd-b9d903f9fb90" >}}
 
-Lecture Notes
--------------
+## Lecture Notes
 
-[Typed Notes for Lecture 1 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec1)
+{{% resource_link "f56c2085-32d7-ab6c-d7ab-fa2315cb4a7a" "Typed Notes for Lecture 1 (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 1 (PDF - 2.2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec1)
+{{% resource_link "9dfe5758-8533-2711-7650-6ee6acdf004f" "Handwritten Notes for Lecture 1 (PDF - 2.2MB)" %}}
 
-Textbook Reading
-----------------
+## Textbook Reading
 
-[Chapter 1: Harmonic Oscillation (PDF - 1.4MB)]({{< baseurl >}}/resources/mit8_03scf16_text_ch1)
+{{% resource_link "d0253416-daba-f95e-a866-e046e63a8e74" "Chapter 1: Harmonic Oscillation (PDF - 1.4MB)" %}}
 
-Problem Set
------------
+## Problem Set
 
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_problemset1)
+{{% resource_link "ba437a62-36bc-47b5-675d-8ec88ef5234b" "Problem Set 1 (PDF)" %}}
 
-Problem Solving Help Video\*
-----------------------------
+## Problem Solving Help Video\*
 
 [Simple Harmonic Motion and Introduction to Problem Solving](/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/simple-harmonic-motion-and-introduction-to-problem-solving-1)
 
-In-class Demonstrations
------------------------
+## In-class Demonstrations
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
-HOW IT'S DONE
-{{< thclose >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SEE IT IN THE LECTURE
-{{< thclose >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link "e2d761bd-7702-b88f-4e7a-3b35933ecd1c" "Air Cart Between Springs" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link "93a0a86f-d21a-dc98-2c21-b2ba17b9834f" "Mass on a Spring" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link "13d16162-90b6-3570-9e14-0759815ca3a8" "Two Pendulums with Different Amplitudes" %}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+*\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW.*
 
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Air Cart Between Springs](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%201&show=0)
-{{< tdclose >}}
-{{< tdopen >}}
-[Air Cart Between Springs]({{< baseurl >}}/resources/lecture-1-video-pop1)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Mass on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%202&show=0)
-{{< tdclose >}}
-{{< tdopen >}}
-[Mass on a Spring]({{< baseurl >}}/resources/lecture-1-video-pop2)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Two Pendulums with Different Amplitudes](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2010&show=0)
-{{< tdclose >}}
-{{< tdopen >}}
-[Two Pendulums with Different Amplitudes]({{< baseurl >}}/resources/lecture-1-video-pop3)
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-_\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
-
-« [Previous]({{< baseurl >}}/pages/part-i-mechanical-vibrations-and-waves) | [Next]({{< baseurl >}}/pages/part-i-mechanical-vibrations-and-waves/lecture-2) »
+« {{% resource_link "6682a3d1-6397-6bcb-b2fb-e67db27d8f04" "Previous" %}} | {{% resource_link "de60ad23-ec34-c2de-5ad0-d3eca23fb1e5" "Next" %}} »

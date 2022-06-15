@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: ''
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part I: Mechanical Vibrations and Waves'
@@ -7,109 +9,63 @@ parent_type: CourseSection
 parent_uid: 6682a3d1-6397-6bcb-b2fb-e67db27d8f04
 title: 'Lecture 11: Sound Waves'
 uid: 255269d4-70c4-990b-3edd-8effa5e8213a
+video_metadata:
+  youtube_id: null
 ---
+« {{% resource_link "0a9b6b96-2334-ae0f-2624-60bcb2eaa2d6" "Previous" %}} | {{% resource_link "240ff61b-57c2-3024-881e-75e9a0e68cde" "Next" %}} »
 
-« [Previous]({{< baseurl >}}/pages/part-i-mechanical-vibrations-and-waves/lecture-10) | [Next]({{< baseurl >}}/pages/part-ii-electromagnetic-waves) »
+## Lecture Topics
 
-Lecture Topics
---------------
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{< resource uuid="ee1a3cb5-313f-6877-bcae-63215b0e5a2d" >}}
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-![]({{< resource_file ee1a3cb5-313f-6877-bcae-63215b0e5a2d >}})
-{{< tdclose >}}
-{{< tdopen >}}
+- Sound waves
+- Longitudinal wave
+- Wave equation
+- Speed of sound
+- Adiabatic process
 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-*   Sound waves
-*   Longitudinal wave
-*   Wave equation
-*   Speed of sound
-*   Adiabatic process
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Lecture Video: Sound Waves
---------------------------
+## Lecture Video: Sound Waves
 
 Sound wave, a longitudinal wave, is discussed in this lecture. Prof. Lee calculates the speed of sound using two extreme cases: (1) constant temperature (2) adiabatic process. He also measures the speed of sound using an in-class demo.
 
-{{< resource 1fdfbfda-f1bc-484a-a5f3-171f284b8802 >}}
+{{< resource uuid="1fdfbfda-f1bc-484a-a5f3-171f284b8802" >}}
 
-Lecture Notes
--------------
+## Lecture Notes
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 11 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec11)
+{{% resource_link "40433e53-644c-3f10-6c4a-16a1ffffbc47" "Typed Notes for Lecture 11 (PDF - 1.2MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 11 (PDF - 2.4MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec11)
+{{% resource_link "d6bc895c-0130-0844-f90a-66092910e8fe" "Handwritten Notes for Lecture 11 (PDF - 2.4MB)" %}}
 
-Textbook Reading
-----------------
+## Textbook Reading
 
-[Chapter 6: Continuum Limit and Fourier Series (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_text_ch6) (section 6.2 to end) 
+{{% resource_link "651d034b-498a-5dce-ecab-775b0901fbd4" "Chapter 6: Continuum Limit and Fourier Series (PDF - 1.2MB)" %}} (section 6.2 to end) 
 
-[Chapter 7: Longitudinal Oscillations and Sound (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_text_ch7) 
+{{% resource_link "5409f084-2a35-a3e1-d29b-3fa5ad1ef055" "Chapter 7: Longitudinal Oscillations and Sound (PDF - 1.3MB)" %}} 
 
-[Chapter 8: Traveling Waves (PDF - 1.4MB)]({{< baseurl >}}/resources/mit8_03scf16_text_ch8) (through section 8.2) 
+{{% resource_link "5d925d6a-c6c6-2059-fb2d-dd4c289e6bb3" "Chapter 8: Traveling Waves (PDF - 1.4MB)" %}} (through section 8.2) 
 
-Problem Set
------------
+## Problem Set
 
-[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_problemset6)
+{{% resource_link "0f9b38b4-e5dc-70ad-664a-073055be5785" "Problem Set 6 (PDF)" %}}
 
-Problem Solving Help Video\*
-----------------------------
+## Problem Solving Help Video\*
 
 [Electromagnetic Waves in a Vacuum](/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/electromagnetic-waves-in-a-vacuum-1)
 
-In-class Demonstrations
------------------------
+## In-class Demonstrations
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
-HOW IT'S DONE
-{{< thclose >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SEE IT IN THE LECTURE
-{{< thclose >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link "e07b1d77-dd4a-b141-4781-16e3e63df4d9" "Standing Sound Waves in a Glass Tube" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link "85c293a8-7a13-f5ec-e87d-0a34f568eefa" "Helium Balloon" %}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+*\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW.*
 
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Standing Sound Waves in a Glass Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2052&show=0)
-{{< tdclose >}}
-{{< tdopen >}}
-[Standing Sound Waves in a Glass Tube]({{< baseurl >}}/resources/copy_of_lecture-11-video)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Helium Balloon](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2048&show=0)
-{{< tdclose >}}
-{{< tdopen >}}
-[Helium Balloon]({{< baseurl >}}/resources/copy2_of_lecture-11-video)
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Related Resources
------------------
-
-Demonstration: [Two Speakers Facing Each Other with a Microphone](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2053&show=0) by [TSG@MIT Physics](http://tsgphysics.mit.edu/front/)
-
-_\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
-
-« [Previous]({{< baseurl >}}/pages/part-i-mechanical-vibrations-and-waves/lecture-10) | [Next]({{< baseurl >}}/pages/part-ii-electromagnetic-waves) »
+« {{% resource_link "0a9b6b96-2334-ae0f-2624-60bcb2eaa2d6" "Previous" %}} | {{% resource_link "240ff61b-57c2-3024-881e-75e9a0e68cde" "Next" %}} »

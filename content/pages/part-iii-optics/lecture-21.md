@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: ''
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part III: Optics'
@@ -7,102 +9,56 @@ parent_type: CourseSection
 parent_uid: 56206522-3db4-e5d1-3c01-86ef14e4db6a
 title: 'Lecture 21: Phased Radar, Single Electron Interference'
 uid: babd702c-f112-1939-a9e0-c02a1d617ddb
+video_metadata:
+  youtube_id: null
 ---
+« {{% resource_link "421db63c-9b50-ba46-6bc2-9ae6df431a14" "Previous" %}} | {{% resource_link "3bf321ed-8bb2-61b1-4279-a2276aff6f51" "Next" %}} »
 
-« [Previous]({{< baseurl >}}/pages/part-iii-optics/lecture-20) | [Next]({{< baseurl >}}/pages/part-iii-optics/lecture-22) »
+## Lecture Topics
 
-Lecture Topics
---------------
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{< resource uuid="807fa454-46c1-646b-6b66-45350f2b02cb" >}}
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-![]({{< resource_file 807fa454-46c1-646b-6b66-45350f2b02cb >}})
-{{< tdclose >}}
-{{< tdopen >}}
+- Phased radar
+- Single electron interference
+- Interference
+- Huygens Principle
 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-*   Phased radar
-*   Single electron interference
-*   Interference
-*   Huygens Principle
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Lecture Video: Phased Radar, Single Electron Interference
----------------------------------------------------------
+## Lecture Video: Phased Radar, Single Electron Interference
 
 Prof. Lee explains how phased radar works. He also discusses the implication of the single electron interference experiment and its relation to Quantum Physics.
 
-{{< resource 55f21f01-cf47-5a7c-2f47-07ee949c994a >}}
+{{< resource uuid="55f21f01-cf47-5a7c-2f47-07ee949c994a" >}}
 
-Lecture Notes
--------------
+## Lecture Notes
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 21 (PDF - 3.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec21)
+{{% resource_link "717fadf8-fcc2-b8da-983c-ae9cde6c04d9" "Typed Notes for Lecture 21 (PDF - 3.2MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 21 (PDF - 1.8MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec21)
+{{% resource_link "069aacb5-8e20-4d2f-5bf7-d3613fe42e18" "Handwritten Notes for Lecture 21 (PDF - 1.8MB)" %}}
 
-Textbook Reading
-----------------
+## Textbook Reading
 
-[Chapter 13: Interference and Diffraction (PDF - 1.6MB)]({{< baseurl >}}/resources/mit8_03scf16_text_ch13) 
+{{% resource_link "79c0663b-6fc5-d0a8-4a9f-453e292ae121" "Chapter 13: Interference and Diffraction (PDF - 1.6MB)" %}} 
 
 Notes:
 
-*   Section 13.4.1 The Single Slit is important for this course
-*   Section 13.4.2 Near-field Diffraction is not covered, but interesting
-*   Section 13.4.4. δ "Functions" is not covered in this course
+- Section 13.4.1 The Single Slit is important for this course
+- Section 13.4.2 Near-field Diffraction is not covered, but interesting
+- Section 13.4.4. δ "Functions" is not covered in this course
 
-In-class Demonstrations
------------------------
+## In-class Demonstrations
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
-HOW IT'S DONE
-{{< thclose >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SEE IT IN THE LECTURE
-{{< thclose >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link "32155b42-b980-c6d8-a226-62e10f055d44" "Ripple Tank (Interference of Two Point Sources)" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link "cf493859-e0d2-9d6a-edc0-af6b883677c6" "Moiré Pattern" %}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link "498072dc-4830-00e0-09ab-b2fcfe1e1738" "Single-Slit Diffraction with a Laser" %}} and {{% resource_link "15f1b30f-a6d5-f539-0c2e-11c517af4611" "Single-Slit Diffraction with a Laser" %}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Ripple Tank (Interference of Two Point Sources)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%201&show=0)
-{{< tdclose >}}
-{{< tdopen >}}
-[Ripple Tank (Interference of Two Point Sources)]({{< baseurl >}}/resources/copy_of_lecture-21-video)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Moiré Pattern](https://mathworld.wolfram.com/MoirePattern.html)
-{{< tdclose >}}
-{{< tdopen >}}
-[Moiré Pattern]({{< baseurl >}}/resources/copy2_of_lecture-21-video)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0)
-{{< tdclose >}}
-{{< tdopen >}}
-[Single-Slit Diffraction with a Laser]({{< baseurl >}}/resources/copy3_of_lecture-21-video) and [Single-Slit Diffraction with a Laser]({{< baseurl >}}/resources/copy4_of_lecture-21-video)
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-« [Previous]({{< baseurl >}}/pages/part-iii-optics/lecture-20) | [Next]({{< baseurl >}}/pages/part-iii-optics/lecture-22) »
+« {{% resource_link "421db63c-9b50-ba46-6bc2-9ae6df431a14" "Previous" %}} | {{% resource_link "3bf321ed-8bb2-61b1-4279-a2276aff6f51" "Next" %}} »
