@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 3: Driven Oscillators, Transient Phenomena, Resonance'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1883'
 title: Driven Cart on Air Track
 uid: ce46df52-e78f-e822-fcb1-d5402a637670
 video_files:

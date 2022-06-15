@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 10: Traveling Waves'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '4098'
 title: Bell Labs Wave Machine (Mismatched Impedance)
 uid: 0f70c4f9-5e84-575b-59bd-d672113eab6c
 video_files:

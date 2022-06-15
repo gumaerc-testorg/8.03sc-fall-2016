@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1281'
 title: Mass on a Spring
 uid: 93a0a86f-d21a-dc98-2c21-b2ba17b9834f
 video_files:

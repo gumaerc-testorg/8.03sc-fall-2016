@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 7: Symmetry, Infinite Number of Coupled Oscillators'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2718'
 title: Bell Labs Wave Machine
 uid: 799bca28-2176-082a-7c7b-d3d13ad3b8e4
 video_files:

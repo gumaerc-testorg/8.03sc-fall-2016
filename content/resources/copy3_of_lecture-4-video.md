@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 4: Coupled Oscillators, Normal Modes'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '689'
 title: Two Rigid Pendulums Coupled with a Spring
 uid: be3ac024-f125-4d16-7517-7cf327084e3f
 video_files:

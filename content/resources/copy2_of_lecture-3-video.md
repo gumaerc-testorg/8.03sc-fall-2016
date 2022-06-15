@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 3: Driven Oscillators, Transient Phenomena, Resonance'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '3114'
 title: Ball on String Pendulum
 uid: b79f572f-4f8e-7c02-7fcc-5873e8a4b2f4
 video_files:

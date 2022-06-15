@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 2: Damped Free Oscillators'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '150'
 title: Damped and Undamped Masses on a Spring
 uid: ea8fb652-ed76-0b5a-d337-a4bc428a1e24
 video_files:

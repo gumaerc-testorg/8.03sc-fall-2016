@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 2: Damped Free Oscillators'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1607'
 title: Oscillating Steel Ball on a Track
 uid: 5c42d76f-5807-505c-fa1a-6633fd529ee5
 video_files:

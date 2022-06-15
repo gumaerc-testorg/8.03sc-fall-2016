@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part III: Optics'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: 56206522-3db4-e5d1-3c01-86ef14e4db6a
 title: 'Lecture 24: Review for Final Exam'
 uid: 9e7f58a6-a530-8e13-cc42-a1813a4fbd62
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/part-iii-optics/lecture-23) | [Next]({{< baseurl >}}/pages/final-exam) »
+« {{% resource_link 95fe7702-7ee0-466a-a181-80c31fa40386 "Previous" %}} | {{% resource_link 40206992-200d-017e-ca64-aac5b6b7d1e4 "Next" %}} »
 
 Lecture Topics
 --------------
@@ -17,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file d1a879b8-f068-df59-5beb-f1afe04e356b >}})
+{{< resource d1a879b8-f068-df59-5beb-f1afe04e356b >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -51,6 +54,6 @@ No readings
 Related Resources
 -----------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Note on Huygen's Principal (PDF)](http://web.stanford.edu/class/math220a/handouts/waveequation3.pdf) from Stanford University
+[Note on Huygen's Principal (PDF)](http://web.stanford.edu/class/math220a/handouts/waveequation3.pdf) from Stanford University
 
-« [Previous]({{< baseurl >}}/pages/part-iii-optics/lecture-23) | [Next]({{< baseurl >}}/pages/final-exam) »
+« {{% resource_link 95fe7702-7ee0-466a-a181-80c31fa40386 "Previous" %}} | {{% resource_link 40206992-200d-017e-ca64-aac5b6b7d1e4 "Next" %}} »

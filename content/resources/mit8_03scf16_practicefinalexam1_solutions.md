@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/1af043879ea3b10e385332f8cfc1f500_MIT8_03SCF16_PracticeFinalExam1_Solutions.pdf
+file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/1af043879ea3b10e385332f8cfc1f500_MIT8_03SCF16_PracticeFinalExam1_Solutions.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,6 @@ parent_uid: 40206992-200d-017e-ca64-aac5b6b7d1e4
 resourcetype: Document
 title: MIT 8.03SC Fall 2016 Practice Final Exam 1 Solutions
 uid: 1af04387-9ea3-b10e-3853-32f8cfc1f500
+video_metadata:
+  youtube_id: null
 ---

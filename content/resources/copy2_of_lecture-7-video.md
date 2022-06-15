@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 7: Symmetry, Infinite Number of Coupled Oscillators'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '4185'
 title: Vibrating Spring (Hand Driven)
 uid: 68eed15b-988b-d960-8a75-00504c08ffe1
 video_files:

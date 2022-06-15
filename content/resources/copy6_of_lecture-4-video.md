@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 4: Coupled Oscillators, Normal Modes'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '893'
 title: Wilberforce Pendulum
 uid: b2752b5d-8835-86c2-ace9-abb1a2bb840d
 video_files:

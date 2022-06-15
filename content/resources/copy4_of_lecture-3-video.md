@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 3: Driven Oscillators, Transient Phenomena, Resonance'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '4021'
 title: Breaking Glass with Sound
 uid: 1789f90f-d5cd-232f-7896-287cc14bbf6c
 video_files:

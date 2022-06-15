@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 16: 2D and 3D Waves, Snell''s Law'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '4662'
 title: Oscillating Soap Film
 uid: d11af7b9-88c9-df4a-8303-a0df4a808886
 video_files:

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 9: Wave Equation, Standing Waves, Fourier Series'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1458'
 title: Bell Labs Wave Machine
 uid: 2e1c8d5f-8c56-9899-700b-b8ab3ac795f6
 video_files:

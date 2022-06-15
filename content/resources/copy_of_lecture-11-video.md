@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 11: Sound Waves'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '3031'
 title: Standing Sound Waves in a Glass Tube
 uid: e07b1d77-dd4a-b141-4781-16e3e63df4d9
 video_files:

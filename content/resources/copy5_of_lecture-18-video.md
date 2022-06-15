@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 18: Wave Plates, Radiation'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '4701'
 title: Polarization of Radio Waves (Dipole Antenna)
 uid: 8c361ee8-b211-e8e2-851d-c047b35a71e5
 video_files:

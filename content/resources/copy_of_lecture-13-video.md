@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 13: Dispersive Medium, Phase Velocity, Group Velocity'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1528'
 title: Bell Labs Wave Machine
 uid: 5f6c52d5-7da0-3011-a425-d38f0d6113cb
 video_files:

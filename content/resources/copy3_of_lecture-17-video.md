@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 17: Polarization, Polarizer'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '3627'
 title: Polarization of Microwaves
 uid: f41e2a7f-8000-f5ca-6d4b-0cf1af47ceb2
 video_files:

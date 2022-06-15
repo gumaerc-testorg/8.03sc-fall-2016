@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 21: Phased Radar, Single Electron Interference'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '4172'
 title: Single-Slit Diffraction with a Laser
 uid: 498072dc-4830-00e0-09ab-b2fcfe1e1738
 video_files:

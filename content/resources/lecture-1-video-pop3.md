@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2182'
 title: Two Pendulums with Different Amplitudes
 uid: 13d16162-90b6-3570-9e14-0759815ca3a8
 video_files:

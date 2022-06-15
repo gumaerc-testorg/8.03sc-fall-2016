@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 15: Uncertainty Principle, 2D Waves'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '4138'
 title: Chladni Figures (Speaker Driven)
 uid: 63ca888d-50c9-b1f4-a58f-5e444cea19f2
 video_files:

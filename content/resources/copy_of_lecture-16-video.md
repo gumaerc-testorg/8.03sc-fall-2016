@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 16: 2D and 3D Waves, Snell''s Law'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2462'
 title: Chladni Figures (Speaker Driven)
 uid: d568308a-b6e6-1e20-45c7-34598020cfc5
 video_files:

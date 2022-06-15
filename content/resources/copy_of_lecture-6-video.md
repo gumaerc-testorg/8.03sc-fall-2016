@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 6: Driven Oscillators, Resonance'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '52'
 title: Two Rigid Pendulums Coupled with a Spring
 uid: 68129134-481c-e0fe-4c44-0b60b48211d8
 video_files:

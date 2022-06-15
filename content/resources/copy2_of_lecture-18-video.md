@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 18: Wave Plates, Radiation'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '4358'
 title: Polarizing Filters and Light
 uid: 290ac7d5-1ed7-ffc2-76c6-f815d5f56fd0
 video_files:

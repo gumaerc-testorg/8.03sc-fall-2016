@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 5: Beat Phenomena'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1914'
 title: Two Rigid Pendulums Coupled with a Spring
 uid: 2151c4ee-6e42-6ef0-f590-6309cc51fb54
 video_files:

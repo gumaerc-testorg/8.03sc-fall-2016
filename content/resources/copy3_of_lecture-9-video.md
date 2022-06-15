@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Lecture 9: Wave Equation, Standing Waves, Fourier Series'
@@ -11,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1582'
 title: Rijke Tube
 uid: 64997f3b-4b9e-8169-394e-78c6734b6839
 video_files:
