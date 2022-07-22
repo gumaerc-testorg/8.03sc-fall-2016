@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5f67f532531841ef8ee223c5c67a0c4e_MIT8_03SCF16_hw_Lec15.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 15: Uncertainty Principle, 2D Waves'
 parent_type: CourseSection

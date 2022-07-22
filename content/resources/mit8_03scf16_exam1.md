@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/bb747516d5ca5d639a4dad828a6afc81_MIT8_03SCF16_Exam1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exam 1
 parent_type: CourseSection

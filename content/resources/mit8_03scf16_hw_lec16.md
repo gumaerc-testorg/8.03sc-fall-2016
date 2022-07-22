@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/185f60ea2b2bc245c1db2276c5f0b796_MIT8_03SCF16_hw_Lec16.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 16: 2D and 3D Waves, Snell''s Law'
 parent_type: CourseSection

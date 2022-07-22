@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/fe0a583836416700c023ad11a680a0de_MIT8_03SCF16_Lec12.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 12: Maxwell''s Equation, Electromagnetic Waves'
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/63f6b1b5b69c9fbd10742e1da53020e3_MIT8_03SCF16_hw_Lec10.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 10: Traveling Waves'
 parent_type: CourseSection

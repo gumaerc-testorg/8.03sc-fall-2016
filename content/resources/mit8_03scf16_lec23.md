@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/e64d8ea1ba08d31dcdf1cda1cec619be_MIT8_03SCF16_Lec23.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 23: Quantum Waves and Gravitational Waves'
 parent_type: CourseSection

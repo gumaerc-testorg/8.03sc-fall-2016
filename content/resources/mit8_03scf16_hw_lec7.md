@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ae3464780ff46b2e392782b3c0a9d43b_MIT8_03SCF16_hw_Lec7.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 7: Symmetry, Infinite Number of Coupled Oscillators'
 parent_type: CourseSection

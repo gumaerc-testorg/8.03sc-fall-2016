@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/80f6e601b7b8d3ceb8572a9b0df9320c_MIT8_03SCF16_hw_Lec17.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 17: Polarization, Polarizer'
 parent_type: CourseSection

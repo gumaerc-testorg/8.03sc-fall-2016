@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/fd478cafea8aa5cca86a02f31c54dc02_MIT8_03SCF16_hw_Lec5.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 5: Beat Phenomena'
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/df878c2fd24e9a337bc0051767d4a697_MIT8_03SCF16_hw_Lec20.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 20: Interference, Soap Bubble'
 parent_type: CourseSection

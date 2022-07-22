@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/910ef4a939ed4daa2eafd1f5b06f24fa_MIT8_03SCF16_Lec2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 2: Damped Free Oscillators'
 parent_type: CourseSection

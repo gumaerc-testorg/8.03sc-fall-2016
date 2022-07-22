@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b4b43b0c651aa54ce5756eb062659227_MIT8_03SCF16_Lec6.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 6: Driven Oscillators, Resonance'
 parent_type: CourseSection
