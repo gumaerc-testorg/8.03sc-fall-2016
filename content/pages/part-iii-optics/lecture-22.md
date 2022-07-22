@@ -1,93 +1,59 @@
 ---
 content_type: page
+description: ''
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part III: Optics'
+parent_type: CourseSection
 parent_uid: 56206522-3db4-e5d1-3c01-86ef14e4db6a
 title: 'Lecture 22: Diffraction, Resolution'
 uid: 3bf321ed-8bb2-61b1-4279-a2276aff6f51
+video_metadata:
+  youtube_id: null
 ---
+« {{% resource_link "babd702c-f112-1939-a9e0-c02a1d617ddb" "Previous" %}} | {{% resource_link "95fe7702-7ee0-466a-a181-80c31fa40386" "Next" %}} »
 
-« [Previous]({{< baseurl >}}/pages/part-iii-optics/lecture-21) | [Next]({{< baseurl >}}/pages/part-iii-optics/lecture-23) »
+## Lecture Topics
 
-Lecture Topics
---------------
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{< resource uuid="22a8147d-7913-6d7b-0ef3-32e027414772" >}}
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
-![]({{< resource_file 22a8147d-7913-6d7b-0ef3-32e027414772 >}})
-{{< tdclose >}}
-{{< tdopen >}}
+- Huygens Principle
+- Diffraction
+- Resolution of a telescope
 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-*   Huygens Principle
-*   Diffraction
-*   Resolution of a telescope
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Lecture Video: Diffraction, Resolution
---------------------------------------
+## Lecture Video: Diffraction, Resolution
 
 The phenomena related to diffraction are the focus of the lecture. Prof. Lee explains the mathematical description of the diffraction pattern of the wave traveling through a wide slit.
 
-{{< resource 2ee9cbea-a2d7-8167-84af-d29ebf30a08e >}}
+{{< resource uuid="2ee9cbea-a2d7-8167-84af-d29ebf30a08e" >}}
 
-Lecture Notes
--------------
+## Lecture Notes
 
-[Typed Notes for Lecture 22 (PDF)]({{< baseurl >}}/resources/mit8_03scf16_lec22)
+{{% resource_link "14225722-2aea-3d11-e530-b9dcb0631857" "Typed Notes for Lecture 22 (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 22 (PDF - 2MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec22)
+{{% resource_link "31bce0c9-9a00-1d40-5b5c-6be14ac9e249" "Handwritten Notes for Lecture 22 (PDF - 2MB)" %}}
 
-Textbook Reading
-----------------
+## Textbook Reading
 
-[Chapter 13: Interference and Diffraction (PDF - 1.6MB)]({{< baseurl >}}/resources/mit8_03scf16_text_ch13) 
+{{% resource_link "79c0663b-6fc5-d0a8-4a9f-453e292ae121" "Chapter 13: Interference and Diffraction (PDF - 1.6MB)" %}} 
 
 Notes:
 
-*   Section 13.4.1 The Single Slit is important for this course
-*   Section 13.4.2 Near-field Diffraction is not covered, but interesting
-*   Section 13.4.4. δ "Functions" is not covered in this course
+- Section 13.4.1 The Single Slit is important for this course
+- Section 13.4.2 Near-field Diffraction is not covered, but interesting
+- Section 13.4.4. δ "Functions" is not covered in this course
 
-In-class Demonstrations
------------------------
+## In-class Demonstrations
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
-HOW IT'S DONE
-{{< thclose >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SEE IT IN THE LECTURE
-{{< thclose >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+{{% resource_link "0b16b0be-b647-9251-6fca-51e92306574f" "Single-Slit Diffraction with a Laser" %}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0)
-{{< tdclose >}}
-{{< tdopen >}}
-[Single-Slit Diffraction with a Laser]({{< baseurl >}}/resources/copy_of_lecture-22-video)
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Related Resources
------------------
-
-Video: [Laser Diffraction and Interference](https://www.youtube.com/watch?v=9D8cPrEAGyc) by [TSG@MIT Physics](http://tsgphysics.mit.edu/front/)
-
-Demonstration: [Single Slit Diffraction with Ripple Tank](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%201&show=0) by [TSG@MIT Physics](http://tsgphysics.mit.edu/front/)
-
-« [Previous]({{< baseurl >}}/pages/part-iii-optics/lecture-21) | [Next]({{< baseurl >}}/pages/part-iii-optics/lecture-23) »
+« {{% resource_link "babd702c-f112-1939-a9e0-c02a1d617ddb" "Previous" %}} | {{% resource_link "95fe7702-7ee0-466a-a181-80c31fa40386" "Next" %}} »

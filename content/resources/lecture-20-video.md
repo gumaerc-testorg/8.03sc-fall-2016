@@ -1,15 +1,26 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Lecture 20: Interference, Soap Bubble'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 20 Video
 uid: 16eaa230-51a4-6ed2-88ef-ab12a50d71d9
 video_files:
   archive_url: http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec20_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d16063a4c35653e6abc58e65570370e5_VkbtIDSHfSc.vtt
+  video_captions_file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d16063a4c35653e6abc58e65570370e5_VkbtIDSHfSc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/VkbtIDSHfSc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ff2ee1bbc2ed017f3e5bcff21669811d_VkbtIDSHfSc.pdf
+  video_transcript_file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ff2ee1bbc2ed017f3e5bcff21669811d_VkbtIDSHfSc.pdf
 video_metadata:
   youtube_id: VkbtIDSHfSc
 ---

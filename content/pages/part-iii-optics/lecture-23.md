@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part III: Optics'
+parent_type: CourseSection
 parent_uid: 56206522-3db4-e5d1-3c01-86ef14e4db6a
 title: 'Lecture 23: Quantum Waves and Gravitational Waves'
 uid: 95fe7702-7ee0-466a-a181-80c31fa40386
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/part-iii-optics/lecture-22) | [Next]({{< baseurl >}}/pages/part-iii-optics/lecture-24) »
+« {{% resource_link 3bf321ed-8bb2-61b1-4279-a2276aff6f51 "Previous" %}} | {{% resource_link 9e7f58a6-a530-8e13-cc42-a1813a4fbd62 "Next" %}} »
 
 Lecture Topics
 --------------
@@ -14,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file 6d2adf5b-e2be-c36f-7de8-4878814dfc38 >}})
+{{< resource 6d2adf5b-e2be-c36f-7de8-4878814dfc38 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -41,13 +47,13 @@ Prof. Lee makes the connection between what we have learned so far and Quantum M
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 23 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit8_03scf16_lec23)
+{{% resource_link e64d8ea1-ba08-d31d-cdf1-cda1cec619be "Typed Notes for Lecture 23 (PDF - 1.2MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 23 (PDF - 4.6MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec23)
+{{% resource_link cb216c88-24a9-16dd-d90a-a5b2bcd874f4 "Handwritten Notes for Lecture 23 (PDF - 4.6MB)" %}}
 
 Textbook Reading
 ----------------
 
 No readings
 
-« [Previous]({{< baseurl >}}/pages/part-iii-optics/lecture-22) | [Next]({{< baseurl >}}/pages/part-iii-optics/lecture-24) »
+« {{% resource_link 3bf321ed-8bb2-61b1-4279-a2276aff6f51 "Previous" %}} | {{% resource_link 9e7f58a6-a530-8e13-cc42-a1813a4fbd62 "Next" %}} »

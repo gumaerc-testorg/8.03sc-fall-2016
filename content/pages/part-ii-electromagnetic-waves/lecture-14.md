@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part II: Electromagnetic Waves'
+parent_type: CourseSection
 parent_uid: 240ff61b-57c2-3024-881e-75e9a0e68cde
 title: 'Lecture 14: Fourier Transform, AM Radio'
 uid: c1476a90-000b-a128-f6d1-3a5e4049fafb
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/part-ii-electromagnetic-waves/lecture-13) | [Next]({{< baseurl >}}/pages/part-ii-electromagnetic-waves/lecture-15) »
+« {{% resource_link f4a13423-bdd7-a179-65ce-b0f19b5833d3 "Previous" %}} | {{% resource_link 57be2ced-3a20-f9a7-fa7c-61386e73f839 "Next" %}} »
 
 Lecture Topics
 --------------
@@ -14,7 +20,7 @@ Lecture Topics
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![]({{< resource_file dc514809-178e-7e3a-9e02-d2f59891c6a6 >}})
+{{< resource dc514809-178e-7e3a-9e02-d2f59891c6a6 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -41,13 +47,13 @@ Prof. Lee discusses the big challenge of communication using dispersive medium. 
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 14 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit8_03scf16_lec14)
+{{% resource_link 475ba537-68d6-f97b-eb5c-45c907ba9907 "Typed Notes for Lecture 14 (PDF - 1.3MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 14 (PDF - 2.7MB)]({{< baseurl >}}/resources/mit8_03scf16_hw_lec14)
+{{% resource_link 6d84763c-8dfd-f014-dcbc-b4c9e44d7198 "Handwritten Notes for Lecture 14 (PDF - 2.7MB)" %}}
 
 Textbook Reading
 ----------------
 
-[Chapter 10: Signals and Fourier Analysis (PDF - 1.4MB)]({{< baseurl >}}/resources/mit8_03scf16_text_ch10)
+{{% resource_link 7a86f546-565e-2180-f8f0-0e86c2ed9982 "Chapter 10: Signals and Fourier Analysis (PDF - 1.4MB)" %}}
 
-« [Previous]({{< baseurl >}}/pages/part-ii-electromagnetic-waves/lecture-13) | [Next]({{< baseurl >}}/pages/part-ii-electromagnetic-waves/lecture-15) »
+« {{% resource_link f4a13423-bdd7-a179-65ce-b0f19b5833d3 "Previous" %}} | {{% resource_link 57be2ced-3a20-f9a7-fa7c-61386e73f839 "Next" %}} »
