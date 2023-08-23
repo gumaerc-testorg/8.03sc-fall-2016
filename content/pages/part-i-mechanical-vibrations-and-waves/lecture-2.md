@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: ''
+description: Video and related content about damped free oscillators
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
@@ -45,37 +45,13 @@ A more realistic physical system, a damped oscillator, is introduced in this lec
 ## In-class Demonstrations
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-DEMO
-{{< thclose >}}{{< thopen >}}
 SEE IT IN THE LECTURE
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Oscillating Steel Ball on a Track
-{{< tdclose >}}{{< tdopen >}}
-[@ 00:01:23](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535), [@ 00:26:47](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535), and [@ 01:07:43](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Physical Pendulum
-{{< tdclose >}}{{< tdopen >}}
-[@ 00:02:00](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Damped and Undamped Masses on a Spring
-{{< tdclose >}}{{< tdopen >}}
-[@ 00:02:30](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535), [@ 00:07:55](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535), [@ 00:10:30](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535), [@ 00:33:27](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535), and [@ 00:48:43](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535)
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Driven Torsional Balance Oscillator
-{{< tdclose >}}{{< tdopen >}}
-[@ 01:10:09](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535)
-{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
-
-## In-class Demonstrations
-
-{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
-SEE IT IN THE LECTURE
-{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "cf505a3a-0c1e-2a73-00f6-7c7ec37372d4" "Oscillating Steel Ball on a Track" %}}, {{% resource_link "5c42d76f-5807-505c-fa1a-6633fd529ee5" "Oscillating Steel Ball on a Track" %}}, and {{% resource_link "d8c7daff-8d2a-ccee-38df-0c40c6390cdd" "Oscillating Steel Ball on a Track" %}}
+{{% resource_link "5c42d76f-5807-505c-fa1a-6633fd529ee5" "Oscillating Steel Ball on a Track" %}}, and {{% resource_link "d8c7daff-8d2a-ccee-38df-0c40c6390cdd" "Oscillating Steel Ball on a Track" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "180f9e8f-14a9-fd17-0772-c55d7ed05b11" "Physical Pendulum" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "ea8fb652-ed76-0b5a-d337-a4bc428a1e24" "Damped and Undamped Masses on a Spring" %}}, [@ 00:07:55](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535), [@ 00:10:30](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535), [@ 00:33:27](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535), and [@ 00:48:43](https://old.ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-2/#?w=535)
+[Damped and Undamped Masses on a Spring](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resources/copy5_of_lecture-2-video/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "dd3bc867-7f56-a9f6-a6d6-133aa7edcfef" "Driven Torsional Balance Oscillator" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
