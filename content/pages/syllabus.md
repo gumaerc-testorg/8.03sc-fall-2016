@@ -10,23 +10,23 @@ uid: b58121fc-044c-a70b-f31e-fe5baa5b87f6
 video_metadata:
   youtube_id: null
 ---
-« [Previous]({{< baseurl >}}/) | {{% resource_link 04ff44e4-0d34-09c8-726b-f5bd29021df8 "Next" %}} »
+« \[Previous\]({{< baseurl >}}/) | {{% resource_link "04ff44e4-0d34-09c8-726b-f5bd29021df8" "Next" %}} »
 
 ## Prerequisites
 
-[_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010) and [_8.02 Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007).
+[*18.02 Multivariable Calculus*](/courses/18-02sc-multivariable-calculus-fall-2010) and [*8.02 Electricity and Magnetism*](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007).
 
-This course is designed for students who are already familiar with the concepts taught in [_8.01 Classical Mechanics_](/courses/8-01sc-classical-mechanics-fall-2016) as well as [_8.02 Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007). We also rely on fundamental mathematics principles taught in [_18.01 Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010) and [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010), as well as some aspects of [_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011).
+This course is designed for students who are already familiar with the concepts taught in [*8.01 Classical Mechanics*](/courses/8-01sc-classical-mechanics-fall-2016) as well as [*8.02 Electricity and Magnetism*](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007). We also rely on fundamental mathematics principles taught in [*18.01 Single Variable Calculus*](/courses/18-01sc-single-variable-calculus-fall-2010) and [*18.02 Multivariable Calculus*](/courses/18-02sc-multivariable-calculus-fall-2010), as well as some aspects of [*18.06 Linear Algebra*](/courses/18-06sc-linear-algebra-fall-2011).
 
 ## Course Overview
 
-{{< resource 241d43da-46e6-ba87-6f18-f5d9f1574018 >}}
+{{< resource uuid="241d43da-46e6-ba87-6f18-f5d9f1574018" >}}
 
 What are vibrations? Many physical systems vibrate or oscillate when something disrupts their equilibrium. Think of what happens when you pull a mass attached to a spring or push a pendulum in a certain direction. The mass bounces up and down. The pendulum swings back and forth. But even these simple phenomena can respond in complicated and counterintuitive ways when subjected to forces known in physics as damping and driving. Combining several pendulums or springs can lead to even more unexpected motions. In this course you will see how physics can describe these motions mathematically.
 
 Extended physical systems that have been made to vibrate, like a string on a guitar, cannot return to their state of equilibrium without exerting forces on the area around them. These forces then lead to the phenomenon of waves, disturbances that propagate through a medium. The vibrating guitar string causes a sound wave to propagate through the medium of the air.
 
-{{< resource 037fe98f-6042-aa45-8d1d-69a7a848669c >}}
+{{< resource uuid="037fe98f-6042-aa45-8d1d-69a7a848669c" >}}
 
 Among the most fascinating phenomena examined in the course are electromagnetic (EM) waves. EM waves have many properties similar to the waves we experience in everyday life, but the underlying physics of EM waves is profoundly different. Instead of a local disturbance exerting a force on adjoining regions, changing magnetic fields create electric fields (as quantified by Faraday's Law), and changing electric fields create magnetic fields (as quantified by Maxwell's extension of Ampere's Law).
 
@@ -38,7 +38,7 @@ The second goal is to provide you with the skill of using a broad range of techn
 
 ## Course Format and Components
 
-This OCW Scholar course is based upon Professor Yen-Jie Lee’s _8.03 Physics III: Vibrations and Waves_ course as taught on the MIT campus. It includes a complete set of 24 video lectures recorded at MIT in the Fall of 2016. Additional materials have been developed specifically for this OCW Scholar course, including:
+This OCW Scholar course is based upon Professor Yen-Jie Lee’s *8.03 Physics III: Vibrations and Waves* course as taught on the MIT campus. It includes a complete set of 24 video lectures recorded at MIT in the Fall of 2016. Additional materials have been developed specifically for this OCW Scholar course, including:
 
 - Lecture Notes aligned with the lecture videos
 - Problem Sets (no solutions)
@@ -49,12 +49,12 @@ MIT students spend about 150-200 hours learning Vibrations and Waves in the on-c
 
 ## Required Textbook
 
-Georgi, Howard. _The Physics of Waves_. Benjamin Cummings, 1992. ISBN: 9780136656210. {{% resource_link ef731c1b-91d7-7a6d-b003-f6c27e300d25 "Download the book (PDF - 5.5MB)" %}} (Courtesy of Howard Georgi. Used with permission.). [Free online version](http://www.people.fas.harvard.edu/~hgeorgi/new.htm) is also available on the author's website.
+Georgi, Howard. *The Physics of Waves*. Benjamin Cummings, 1992. ISBN: 9780136656210. {{% resource_link "ef731c1b-91d7-7a6d-b003-f6c27e300d25" "Download the book (PDF - 5.5MB)" %}} (Courtesy of Howard Georgi. Used with permission.)
 
 ## Suggested References
 
-French, A. P. _Vibrations and Waves_. New York: W.W. Norton, 1980. ISBN: 9780393099362.
+French, A. P. *Vibrations and Waves*. New York: W.W. Norton, 1980. ISBN: 9780393099362.
 
-![Buy at MIT Press](/images/mp_logo.gif) Bekefi, George, and Alan H. Barrett. _Electromagnetic Vibrations, Waves, and Radiation_. MIT Press, 1977. ISBN: 9780262520478. \[Preview with [Google Books](http://books.google.com/books?id=zRfTq6iMdNEC&pg=PAfrontcover)\]
+![Buy at MIT Press](/images/mp_logo.gif) Bekefi, George, and Alan H. Barrett. *Electromagnetic Vibrations, Waves, and Radiation*. MIT Press, 1977. ISBN: 9780262520478. \[Preview with [Google Books](http://books.google.com/books?id=zRfTq6iMdNEC&pg=PAfrontcover)\]
 
-« [Previous]({{< baseurl >}}/) | {{% resource_link 04ff44e4-0d34-09c8-726b-f5bd29021df8 "Next" %}} »
+« \[Previous\]({{< baseurl >}}/) | {{% resource_link "04ff44e4-0d34-09c8-726b-f5bd29021df8" "Next" %}} »
