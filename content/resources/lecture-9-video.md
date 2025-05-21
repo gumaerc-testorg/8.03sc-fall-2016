@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '177919263'
 file_type: ''
 image_metadata:
   caption: ''
@@ -22,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Lecture 9 Video
+title: 'Lecture 9: Wave Equation, Standing Waves, Fourier Series'
 uid: dfd2804b-fced-6294-0a93-93e1e5ec3142
 video_files:
   archive_url: http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec09_300k.mp4

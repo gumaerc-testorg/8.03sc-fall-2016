@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '172589377'
 file_type: ''
 image_metadata:
   caption: ''
@@ -21,7 +21,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Lecture Lecture Video 17: Polarization, Polarizer Video'
+title: 'Lecture Video 17: Polarization, Polarizer Video'
 uid: 6f026ff9-7d15-161d-147e-6d4b415cc0da
 video_files:
   archive_url: http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec17_300k.mp4

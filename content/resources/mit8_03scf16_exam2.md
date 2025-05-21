@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ef55f1f8db2442af4042c26b1367a091_MIT8_03SCF16_Exam2.pdf
-file_size: ''
+file_size: 355204
 file_type: application/pdf
 image_metadata:
   caption: ''

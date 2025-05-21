@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '134446500'
 file_type: ''
 image_metadata:
   caption: ''
@@ -22,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Lecture 1 Video
+title: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'
 uid: 54dfea64-4e01-fba0-0cfd-b9d903f9fb90
 video_files:
   archive_url: http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec01_300k.mp4

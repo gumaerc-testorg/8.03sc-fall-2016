@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/df878c2fd24e9a337bc0051767d4a697_MIT8_03SCF16_hw_Lec20.pdf
-file_size: ''
+file_size: 1638701
 file_type: application/pdf
 image_metadata:
   caption: ''
