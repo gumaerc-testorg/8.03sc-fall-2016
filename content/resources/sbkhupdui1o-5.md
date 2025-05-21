@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d8a78a5c6c941c1dd7193eb94c795400_sBKHUPDUI1o.pdf
+file_size: 77563
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
