@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '193862423'
 file_type: ''
 image_metadata:
   caption: ''
@@ -22,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Lecture 19 Video
+title: 'Lecture 19: Waves in Medium'
 uid: cbe100d1-9ea0-d3cd-b840-9f11b9055177
 video_files:
   archive_url: http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec19_300k.mp4

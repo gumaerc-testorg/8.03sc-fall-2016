@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '193264736'
 file_type: ''
 image_metadata:
   caption: ''
@@ -22,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Lecture 6 Video
+title: 'Lecture 6: Driven Oscillators, Resonance'
 uid: 3f15dcc4-ba20-b576-a33f-4c4d67c6aafb
 video_files:
   archive_url: http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec06_300k.mp4

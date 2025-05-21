@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '185526927'
 file_type: ''
 image_metadata:
   caption: ''
@@ -22,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Lecture 21 Video
+title: 'Lecture 21: Phased Radar, Single Electron Interference'
 uid: 55f21f01-cf47-5a7c-2f47-07ee949c994a
 video_files:
   archive_url: http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec21_300k.mp4

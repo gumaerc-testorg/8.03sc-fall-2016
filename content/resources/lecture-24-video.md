@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '163484879'
 file_type: ''
 image_metadata:
   caption: ''
@@ -22,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Lecture 24 Video
+title: 'Lecture 24: Review for Final Exam'
 uid: 6c2778ad-6c2b-3358-bd58-479eb68e5797
 video_files:
   archive_url: http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec24_300k.mp4

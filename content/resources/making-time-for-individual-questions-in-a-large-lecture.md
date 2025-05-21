@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '4257833'
 file_type: ''
 image_metadata:
   caption: ''
@@ -12,6 +12,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Instructor Insights
+- Other Video
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''

@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '179950167'
 file_type: ''
 image_metadata:
   caption: ''
@@ -22,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Lecture 2 Video
+title: 'Lecture 2: Damped Free Oscillators'
 uid: 3ef45d59-d367-2f4a-8c8f-d88f6a24b876
 video_files:
   archive_url: http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec02_300k.mp4

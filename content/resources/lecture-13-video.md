@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '173010516'
 file_type: ''
 image_metadata:
   caption: ''
@@ -22,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Lecture 13 Video
+title: 'Lecture 13: Dispersive Medium, Phase Velocity, Group Velocity'
 uid: 3b8e9cfd-8b8f-d4f8-1212-6d6af42611f9
 video_files:
   archive_url: http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec13_300k.mp4

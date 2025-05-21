@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information regarding Problem Set 1
 draft: false
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ba437a6236bc47b5675d8ec88ef5234b_MIT8_03SCF16_ProblemSet1.pdf
-file_size: ''
+file_size: 518225
 file_type: application/pdf
 image_metadata:
   caption: ''

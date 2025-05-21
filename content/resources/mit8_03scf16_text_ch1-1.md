@@ -3,14 +3,13 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/8eb46d081c5ba4728cbbb369a03ba45e_MIT8_03SCF16_Text_Ch1.pdf
-file_size: ''
+file_size: 511895
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Online Textbook
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Lecture 1: Periodic Oscillations, Harmonic Oscillators'
