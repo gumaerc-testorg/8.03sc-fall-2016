@@ -4,7 +4,7 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '175908841'
 file_type: ''
 image_metadata:
   caption: ''
@@ -22,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: Lecture 7 Video
+title: 'Lecture 7: Symmetry, Infinite Number of Coupled Oscillators'
 uid: 944f2b13-08dc-79bd-77bc-f44e1f4692b4
 video_files:
   archive_url: http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec07_300k.mp4

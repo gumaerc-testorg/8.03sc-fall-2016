@@ -4,13 +4,14 @@ description: ''
 draft: false
 end_time: ''
 file: null
-file_size: ''
+file_size: '187533659'
 file_type: ''
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -21,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: 'Lecture Video 5: Beat Phenomena'
+title: 'Lecture 5: Beat Phenomena'
 uid: a675e99a-4cc2-fd74-84d3-463c20b77131
 video_files:
   archive_url: http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec05_300k.mp4
