@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/01067563c50e5191ab06f33dabae1222_sBKHUPDUI1o.vtt
+file: /ol-ocw-studio-app/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/01067563c50e5191ab06f33dabae1222_sBKHUPDUI1o.vtt
 file_size: 89155
 file_type: application/x-subrip
 learning_resource_types: []
