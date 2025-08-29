@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Problem Set 5
 draft: false
-file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/bc3781381fb2cba84933a3d53c51d155_MIT8_03SCF16_ProblemSet5.pdf
+file: /ol-ocw-studio-app/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/bc3781381fb2cba84933a3d53c51d155_MIT8_03SCF16_ProblemSet5.pdf
 file_size: 651576
 file_type: application/pdf
 image_metadata:

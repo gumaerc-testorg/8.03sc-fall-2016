@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/fcb180650c5350605b3c0e2c44ccc5fa_guitar2.jpg
+file: /ol-ocw-studio-app/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/fcb180650c5350605b3c0e2c44ccc5fa_guitar2.jpg
 file_size: 43896
 file_type: image/jpeg
 image_metadata:

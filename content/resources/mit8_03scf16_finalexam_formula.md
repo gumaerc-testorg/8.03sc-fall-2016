@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c9296743d8d2167bfbeb6b0b93c28cf6_MIT8_03SCF16_FinalExam_Formula.pdf
+file: /ol-ocw-studio-app/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c9296743d8d2167bfbeb6b0b93c28cf6_MIT8_03SCF16_FinalExam_Formula.pdf
 file_size: 298509
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Supplemental Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Exam
