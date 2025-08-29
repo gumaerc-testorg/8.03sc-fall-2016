@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ed647a1afd8b0e910d66870560597db3_MIT8_03SCF16_PracticeFinalExam2.pdf
+file: /ol-ocw-studio-app/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ed647a1afd8b0e910d66870560597db3_MIT8_03SCF16_PracticeFinalExam2.pdf
 file_size: 1285508
 file_type: application/pdf
 image_metadata:
