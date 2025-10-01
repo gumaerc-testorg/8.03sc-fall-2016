@@ -55,6 +55,6 @@ SEE IT IN THE LECTURE
 
 ## Related Resources
 
-Video: [Wave on a String](http://phet.colorado.edu/sims/wave-on-a-string/wave-on-a-string_en.html) from [PhET Interactive Simulations project at the University of Colorado Boulder](https://phet.colorado.edu/)
+Video: {{% resource_link "9dc71309-572a-47ab-858f-295bf5cc1b85" "Wave on a String" %}} from {{% resource_link "320bf71b-7201-4191-8263-294d86d4646f" "PhET Interactive Simulations project at the University of Colorado Boulder" %}}
 
 « {{% resource_link "aa7bcfd6-ec86-3e35-a88d-1a5eba2076b6" "Previous" %}} | {{% resource_link "de998eb5-074b-7df1-3d10-3d14ca8b2ced" "Next" %}} »

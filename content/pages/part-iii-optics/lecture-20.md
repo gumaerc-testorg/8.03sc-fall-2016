@@ -69,11 +69,11 @@ SEE IT IN THE LECTURE
 
 ## Related Resources
 
-Video: [A Soap Film](https://www.youtube.com/watch?v=2CZUhW73YX8) by [Kevin Osborn on YouTube](https://www.youtube.com/channel/UCbYWDju-4RCtlCMK4mj9euQ)
+Video: {{% resource_link "ef7a3fb5-bee0-4cd1-a85b-14d21f3fc89d" "A Soap Film" %}} by {{% resource_link "13cdff64-c9eb-4ed4-acac-c6ce0233f704" "Kevin Osborn on YouTube" %}}
 
-Video: [Double Slit Experiment](https://www.youtube.com/watch?v=Iuv6hY6zsd0) by [Veritasium on YouTube](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
+Video: {{% resource_link "1fcb034b-cef6-45de-b4ce-50baf374c6f4" "Double Slit Experiment" %}} by {{% resource_link "4fbb06f1-6e28-41b5-9f44-eccd6a3db923" "Veritasium on YouTube" %}}
 
-Webpage: [Double-slit Experiment](http://www.hitachi.com/rd/portal/highlight/quantum/index.html#anc04) from [Hitachi Group](http://www.hitachi.com/)
+Webpage: {{% resource_link "06919281-2f00-4b5b-b909-efffd6109c02" "Double-slit Experiment" %}} from {{% resource_link "d03d5008-1fd2-4adf-83dd-747a08b312df" "Hitachi Group" %}}
 
 *\* **Note**: These Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW.*
 
