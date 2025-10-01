@@ -43,7 +43,7 @@ Below, Professor Yen-Jie Lee describes various aspects of how he teaches _8.03 P
 
 GIR
 
-8.03 may be applied toward a [Bachelor of Science in Physics](http://web.mit.edu/physics/current/undergrad/major.html).
+8.03 may be applied toward a {{% resource_link "c49b54c9-6a5d-4736-bf15-c48b31dcf832" "Bachelor of Science in Physics" %}}.
 
 ### Offered
 
