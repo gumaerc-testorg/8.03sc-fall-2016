@@ -71,7 +71,7 @@ SEE IT IN THE LECTURE
 
 ## Related Resources
 
-Video: [Pendulum Waves](https://www.youtube.com/watch?v=V87VXA6gPuE) of [Newton’s Cradle](https://en.wikipedia.org/wiki/Newton%27s_cradle) in motion set to music.
+Video: {{% resource_link "055bd913-cdc1-4ae0-8ba6-6503e58979a0" "Pendulum Waves" %}} of {{% resource_link "e2fd6dfd-54d0-43eb-b116-3e6a00cb2117" "Newton’s Cradle" %}} in motion set to music.
 
 *\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW.*
 

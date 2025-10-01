@@ -56,6 +56,6 @@ SEE IT IN THE LECTURE
 
 ## Related Resources
 
-Video: [Polarization of Light](https://www.youtube.com/watch?v=E9qpbt0v5Hw) by [uclaphysicsvideo on YouTube](https://www.youtube.com/channel/UCXWBuswk0HFXgqJw3MXT1Ow)
+Video: {{% resource_link "13eb8165-cc5a-456f-b172-31024d0577bc" "Polarization of Light" %}} by {{% resource_link "8dc1868b-92b0-44cc-9d84-17687ca699e0" "uclaphysicsvideo on YouTube" %}}
 
 « {{% resource_link "7d3296b3-f48f-d48a-bef1-24b6a4fa4305" "Previous" %}} | {{% resource_link "421db63c-9b50-ba46-6bc2-9ae6df431a14" "Next" %}} »

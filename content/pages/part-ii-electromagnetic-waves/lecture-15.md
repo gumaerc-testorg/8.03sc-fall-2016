@@ -60,11 +60,11 @@ SEE IT IN THE LECTURE
 
 ## Related Resources
 
-Video: [Chladni Figures](https://www.youtube.com/watch?v=wvJAgrUBF4w) by [brusspup on YouTube](https://www.youtube.com/channel/UCeQEKFH31vvD-InkTGSvCrA)
+Video: {{% resource_link "a17a7872-45a7-4942-8997-af284290f17c" "Chladni Figures" %}} by {{% resource_link "bd229e71-dc98-46f9-a3c4-7c1ec0654a60" "brusspup on YouTube" %}}
 
-Video: [Water Wave Dispersion and Swell Formation](https://www.youtube.com/watch?v=orLlhZw7OoQ) by [Keith Meldahl on YouTube](https://www.youtube.com/channel/UCV3lzpClHNSN0ZpnmRowdHg)
+Video: {{% resource_link "415648e8-faf0-466d-9b1c-09f8ea591c64" "Water Wave Dispersion and Swell Formation" %}} by {{% resource_link "449b53e9-3109-49cd-8039-bc269aa25490" "Keith Meldahl on YouTube" %}}
 
-Video: [Examples Related to Delta Functions (OCW, 18.03 recitation)](https://www.youtube.com/watch?v=q0PxCQWG3ic)
+Video: {{% resource_link "e41daac4-5adf-46aa-b1fb-97b20769ed9d" "Examples Related to Delta Functions (OCW, 18.03 recitation)" %}}
 
 *\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW.*
 

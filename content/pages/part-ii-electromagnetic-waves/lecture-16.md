@@ -58,8 +58,8 @@ SEE IT IN THE LECTURE
 
 ## Related Resources
 
-Video: [Total Internal Refraction](https://www.youtube.com/watch?v=WRuatAcd2WY) by [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
+Video: {{% resource_link "4309b7c9-c2f4-400a-82ca-893a96a2fd25" "Total Internal Refraction" %}} by {{% resource_link "c91dab54-172d-4f3b-8368-4ee4aca01278" "Khan Academy" %}}
 
-Video: [Snell's Law](https://www.youtube.com/watch?v=y55tzg_jW9I) by [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
+Video: {{% resource_link "7743d66c-4d6f-488a-a4f8-b3e5748dbaaf" "Snell's Law" %}} by {{% resource_link "c91dab54-172d-4f3b-8368-4ee4aca01278" "Khan Academy" %}}
 
 « {{% resource_link "57be2ced-3a20-f9a7-fa7c-61386e73f839" "Previous" %}} | {{% resource_link "56206522-3db4-e5d1-3c01-86ef14e4db6a" "Next" %}} »

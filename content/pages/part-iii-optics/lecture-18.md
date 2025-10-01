@@ -58,6 +58,6 @@ SEE IT IN THE LECTURE
 
 ## Related Resources
 
-Video: [Radiating Charge](https://phet.colorado.edu/en/simulation/legacy/radiating-charge) from [PhET Interactive Simulations project at the University of Colorado Boulder](https://phet.colorado.edu/)
+Video: {{% resource_link "98ed7a71-349d-4d79-af5f-29fc0bd600e0" "Radiating Charge" %}} from {{% resource_link "320bf71b-7201-4191-8263-294d86d4646f" "PhET Interactive Simulations project at the University of Colorado Boulder" %}}
 
 « {{% resource_link "fbfb11df-c87e-8464-a19b-8f26fb75c77d" "Previous" %}} | {{% resource_link "e069a26e-f953-d236-dc90-bcdcb2466c4e" "Next" %}} »

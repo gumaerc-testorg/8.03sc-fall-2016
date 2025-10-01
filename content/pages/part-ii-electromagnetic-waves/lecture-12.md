@@ -52,13 +52,13 @@ Prof. Lee shows the Electromagnetic wave equation can be derived by using Maxwel
 
 ## Related Resources
 
-Video: [One Trillion Frames per Second](https://youtu.be/EtsXgODHMWk) by [Prof. Ramesh Raskar at MIT Media Lab](http://web.media.mit.edu/~raskar/trillionfps/)
+Video: {{% resource_link "ec69ff33-7f39-4b8f-92f3-a6b553339a15" "One Trillion Frames per Second" %}} by {{% resource_link "67125988-2857-4d7c-bd89-102d7cb60b26" "Prof. Ramesh Raskar at MIT Media Lab" %}}
 
-Video: [Microwave Oven Standing Wave Visualization](https://www.youtube.com/watch?v=7FhwTelc5Tg) by [oisiaa on YouTube](https://www.youtube.com/channel/UCvKmgjr1FPDBekay8HkLLEQ)
+Video: {{% resource_link "78632be3-a7db-4bc9-9ee4-ec0afd851ee7" "Microwave Oven Standing Wave Visualization" %}} by {{% resource_link "b57591c3-8938-4c2b-aeb7-277a87a6c01f" "oisiaa on YouTube" %}}
 
-Webpage: [The Idea of the Divergence of a Vector Field](https://mathinsight.org/divergence_idea) by [Math Insight](http://mathinsight.org/)
+Webpage: {{% resource_link "acecdea5-ef5e-451e-91c7-3f42d76806a2" "The Idea of the Divergence of a Vector Field" %}} by {{% resource_link "76d6567d-7539-4247-9de2-0cb6dc665b14" "Math Insight" %}}
 
-Webpage: [The Idea of the Curl of a Vector Field](https://mathinsight.org/curl_idea) by [Math Insight](http://mathinsight.org/)
+Webpage: {{% resource_link "8aa9e50a-8bae-465b-8dbd-0899b783b2ed" "The Idea of the Curl of a Vector Field" %}} by {{% resource_link "76d6567d-7539-4247-9de2-0cb6dc665b14" "Math Insight" %}}
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 

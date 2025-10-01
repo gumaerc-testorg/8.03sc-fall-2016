@@ -68,14 +68,14 @@ IN-CLASS DEMONSTRATIONS
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "ba437a62-36bc-47b5-675d-8ec88ef5234b" "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-[Simple Harmonic Motion and Introduction to Problem Solving](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/simple-harmonic-motion-and-introduction-to-problem-solving-1)
+{{% resource_link "a8983ab0-ee11-4251-b54c-18ef1618fd05" "Simple Harmonic Motion and Introduction to Problem Solving" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-[Air Cart Between Springs](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%201&show=0)
+{{% resource_link "cb691aff-5bce-4d35-84cb-bd0e7f3be828" "Air Cart Between Springs" %}}
 
-[Mass on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%202&show=0)
+{{% resource_link "6d0d6992-c7d5-4a7b-860e-48946c66df1d" "Mass on a Spring" %}}
 
-[Two Pendulums with Different Amplitudes](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2010&show=0)
+{{% resource_link "78638009-fa09-43bd-a820-f5ac10f7ec7c" "Two Pendulums with Different Amplitudes" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "de60ad23-ec34-c2de-5ad0-d3eca23fb1e5" "Damped Free Oscillators" %}}
@@ -95,13 +95,13 @@ None
 None
 {{< tdclose >}}{{< tdopen >}}
 
-[Oscillating Steel Ball on a Track](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2012&show=0)
+{{% resource_link "d1a574ad-afec-4fcf-a09a-5d50678cee8c" "Oscillating Steel Ball on a Track" %}}
 
-[Physical Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%207&show=0)
+{{% resource_link "91b8e0ba-43ce-4e59-a0fb-b7b856a1e8c7" "Physical Pendulum" %}}
 
-[Damped and Undamped Masses on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2011&show=0)
+{{% resource_link "846f2d68-79bb-4685-bdf5-636c6192fc81" "Damped and Undamped Masses on a Spring" %}}
 
-[Driven Torsional Balance Oscillator](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2060&show=0)
+{{% resource_link "fe8d0df2-46da-42b2-83a0-e3c52b52bd64" "Driven Torsional Balance Oscillator" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "f635ac92-fa89-71e3-6819-2518b537eb93" "Driven Oscillators, Transient Phenomena, Resonance" %}}
@@ -118,14 +118,14 @@ None
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "0b2a2934-8074-da94-45a2-878b4196afbb" "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-[Harmonic Oscillators with Damping](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/harmonic-oscillators-with-damping-1)
+{{% resource_link "46196b1a-03a9-4eff-a7f8-bcd0166b09e3" "Harmonic Oscillators with Damping" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-[Driven Cart on Air Track](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2058&show=0)
+{{% resource_link "c8be0d31-95fe-495f-8878-b029d30cd406" "Driven Cart on Air Track" %}}
 
-[Driven Mechanical Oscillator](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2059&show=0)
+{{% resource_link "defbc930-a049-49fb-80c5-b191fe5ae869" "Driven Mechanical Oscillator" %}}
 
-[Breaking Glass with Sound](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2066&show=0)
+{{% resource_link "2fcf328b-818f-4ad7-90fe-ad4a5ccaf0c9" "Breaking Glass with Sound" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "05ac767b-4120-1817-3f89-1143fb7c00eb" "Coupled Oscillators, Normal Modes" %}}
@@ -145,15 +145,15 @@ None
 None
 {{< tdclose >}}{{< tdopen >}}
 
-[Double Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2069&show=0)
+{{% resource_link "f40e52f9-aca3-4a85-82e1-f0f71d06b257" "Double Pendulum" %}}
 
-[Weighted Hacksaw Blade](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2021&show=0)
+{{% resource_link "46340ff9-6b88-48f6-abb7-90540fedbeab" "Weighted Hacksaw Blade" %}}
 
-[Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0)
+{{% resource_link "130a1c8c-2829-47dd-8164-973ed71c518a" "Two Rigid Pendulums Coupled with a Spring" %}}
 
-[Two Pendulums Coupled with a Rod](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2018&show=0)
+{{% resource_link "33721739-d11c-4720-b930-5b1e9e52d044" "Two Pendulums Coupled with a Rod" %}}
 
-[Wilberforce Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2022&show=0)
+{{% resource_link "cdbed6d2-c324-48d0-9ebc-0cc6aefbb8db" "Wilberforce Pendulum" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "9bc91332-1f00-f352-65f3-aede3364abeb" "Beat Phenomena" %}}
@@ -170,14 +170,14 @@ None
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "e3da8bed-da3b-1796-4eab-cf48c920c58a" "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-[Coupled Oscillators without Damping](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/coupled-oscillators-without-damping-1)
+{{% resource_link "8eb16dc4-7f06-406b-a2db-78f720e41891" "Coupled Oscillators without Damping" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-[Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0)
+{{% resource_link "130a1c8c-2829-47dd-8164-973ed71c518a" "Two Rigid Pendulums Coupled with a Spring" %}}
 
-[Wave Beats](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2041&show=0)
+{{% resource_link "b0a3e368-3c8c-42ab-932b-c7ae980ebd72" "Wave Beats" %}}
 
-[Coupled Tunning Forks](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2046&show=0)
+{{% resource_link "3a48081a-d41f-4aa6-b71a-92cbdb1132e8" "Coupled Tunning Forks" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "cf85feed-f452-d089-3365-f5c9eca3acb0" "Driven Oscillators, Resonance" %}}
@@ -201,9 +201,9 @@ None
 None
 {{< tdclose >}}{{< tdopen >}}
 
-[Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0)
+{{% resource_link "130a1c8c-2829-47dd-8164-973ed71c518a" "Two Rigid Pendulums Coupled with a Spring" %}}
 
-[Coupled Air Carts](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2020&show=0)
+{{% resource_link "94f33554-0685-4763-bb50-4c8cb2a89589" "Coupled Air Carts" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "aa7bcfd6-ec86-3e35-a88d-1a5eba2076b6" "Symmetry, Infinite Number of Coupled Oscillators" %}}
@@ -225,15 +225,15 @@ None
 {{% resource_link "24e89fce-b17b-e74d-222e-4b63b4351a6a" "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-[Standing Waves Part I](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/standing-waves-part-i-1)
+{{% resource_link "f74ca4ad-1048-4c59-81f9-54eaac95a992" "Standing Waves Part I" %}}
 
-[Standing Waves Part II](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/standing-waves-part-ii-1)
+{{% resource_link "2d09d36a-cf49-413a-b6b7-f5a4d65ec349" "Standing Waves Part II" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
-[Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0)
+{{% resource_link "249e80af-9ddf-4b63-a7ac-8df8a15b26b0" "Bell Labs Wave Machine" %}}
 
-[Vibrating Spring (Hand Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2035&show=0)
+{{% resource_link "8d2d746d-50b6-4a0d-8ae0-666407d512e4" "Vibrating Spring (Hand Driven)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "ca53d2a9-7539-9f6f-97d2-cbedae117060" "Translation Symmetry" %}}
@@ -256,7 +256,7 @@ None
 {{< tdclose >}}{{< tdopen >}}
 None
 {{< tdclose >}}{{< tdopen >}}
-[Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0)
+{{% resource_link "249e80af-9ddf-4b63-a7ac-8df8a15b26b0" "Bell Labs Wave Machine" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "de998eb5-074b-7df1-3d10-3d14ca8b2ced" "Wave Equation, Standing Waves, Fourier Series" %}}
 {{< tdclose >}}{{< tdopen >}}
@@ -277,17 +277,17 @@ None
 {{% resource_link "bc378138-1fb2-cba8-4933-a3d53c51d155" "Problem Set 5 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-[Traveling Waves without Damping](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/traveling-waves-without-damping-1)
+{{% resource_link "98fb75fe-74db-47c8-b351-2aa670738bd6" "Traveling Waves without Damping" %}}
 
-[Standing Waves Part I](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/standing-waves-part-i-1)
+{{% resource_link "f74ca4ad-1048-4c59-81f9-54eaac95a992" "Standing Waves Part I" %}}
 
-[Standing Waves Part II](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/standing-waves-part-ii-1)
+{{% resource_link "2d09d36a-cf49-413a-b6b7-f5a4d65ec349" "Standing Waves Part II" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
-[Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0)
+{{% resource_link "249e80af-9ddf-4b63-a7ac-8df8a15b26b0" "Bell Labs Wave Machine" %}}
 
-[Rijke Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2065&show=0)
+{{% resource_link "2261a354-310b-4dcd-8bb2-104ebbd352ec" "Rijke Tube" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "76628058-7df7-eac4-3ea1-3bd07d2c6250" "Exam 1" %}} (covers Lecture 1 through Lecture 8)
@@ -333,7 +333,7 @@ None
 {{< tdclose >}}{{< tdopen >}}
 None
 {{< tdclose >}}{{< tdopen >}}
-[Bell Labs Wave Machine (Mismatched Impedance)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0)
+{{% resource_link "249e80af-9ddf-4b63-a7ac-8df8a15b26b0" "Bell Labs Wave Machine (Mismatched Impedance)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "255269d4-70c4-990b-3edd-8effa5e8213a" "Sound Waves" %}}
 {{< tdclose >}}{{< tdopen >}}
@@ -355,12 +355,12 @@ None
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "0f9b38b4-e5dc-70ad-664a-073055be5785" "Problem Set 6 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-[Electromagnetic Waves in a Vacuum](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/electromagnetic-waves-in-a-vacuum-1)
+{{% resource_link "12ef34d3-03d3-44c4-9565-80b9a915064f" "Electromagnetic Waves in a Vacuum" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-[Standing Sound Waves in a Glass Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2052&show=0)
+{{% resource_link "2fd00643-914d-4380-8802-46702ce30f7e" "Standing Sound Waves in a Glass Tube" %}}
 
-[Helium Balloon](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2048&show=0)
+{{% resource_link "a7607bf4-47a6-4af7-814a-41ea545cc782" "Helium Balloon" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -383,7 +383,7 @@ IN-CLASS DEMONSTRATIONS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "44d635cc-e8fd-d43a-e899-5f001ae3388c" "Maxwell's Equation, Electromagnetic Waves" %}}
 {{< tdclose >}}{{< tdopen >}}
-[Lecture 12: Maxwell's Equation, Electromagnetic Waves](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/pages/part-ii-electromagnetic-waves/lecture-12/)
+{{% resource_link "a1076ced-f357-42e3-bb36-376f62fa5728" "Lecture 12: Maxwell's Equation, Electromagnetic Waves" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 {{% resource_link "fe0a5838-3641-6700-c023-ad11a680a0de" "Typed Notes for Lecture 12 (PDF - 2.6MB)" %}}
@@ -399,7 +399,7 @@ IN-CLASS DEMONSTRATIONS
 {{< tdclose >}}{{< tdopen >}}
 None
 {{< tdclose >}}{{< tdopen >}}
-[Electromagnetic Waves in a Vacuum](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/electromagnetic-waves-in-a-vacuum-1)
+{{% resource_link "12ef34d3-03d3-44c4-9565-80b9a915064f" "Electromagnetic Waves in a Vacuum" %}}
 {{< tdclose >}}{{< tdopen >}}
 None
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -421,9 +421,9 @@ None
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "1605be1a-840c-d007-1e94-050a80469f4c" "Problem Set 7 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-[Accelerated Charges Radiating Electromagnetic Waves](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/accelerated-charges-radiating-electromagnetic-waves-1)
+{{% resource_link "47a85615-e8d7-4ffc-a05a-7a80f89bb413" "Accelerated Charges Radiating Electromagnetic Waves" %}}
 {{< tdclose >}}{{< tdopen >}}
-[Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0)
+{{% resource_link "249e80af-9ddf-4b63-a7ac-8df8a15b26b0" "Bell Labs Wave Machine" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "c1476a90-000b-a128-f6d1-3a5e4049fafb" "Fourier Transform, AM Radio" %}}
 {{< tdclose >}}{{< tdopen >}}
@@ -457,9 +457,9 @@ None
 {{< tdclose >}}{{< tdopen >}}
 {{% resource_link "a5bda2c1-37a2-b842-14e0-c08b75e0da2a" "Problem Set 8 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-[Interference of Electromagnetic Waves](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/interference-of-electromagnetic-waves-1)
+{{% resource_link "8f3d4212-3f89-4217-8637-7553aa23402f" "Interference of Electromagnetic Waves" %}}
 {{< tdclose >}}{{< tdopen >}}
-[Chladni Figures (Speaker Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2038&show=0)
+{{% resource_link "f45ca8ce-c385-41c2-aea6-1e0b6cdc487b" "Chladni Figures (Speaker Driven)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "c84dbaf3-57b2-e84b-1aa1-aa8cea794c86" "2D and 3D Waves, Snell’s Law" %}}
 {{< tdclose >}}{{< tdopen >}}
@@ -482,9 +482,9 @@ None
 None
 {{< tdclose >}}{{< tdopen >}}
 
-[Chladni Figures (Speaker Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2038&show=0)
+{{% resource_link "f45ca8ce-c385-41c2-aea6-1e0b6cdc487b" "Chladni Figures (Speaker Driven)" %}}
 
-[Oscillating Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2040&show=0)
+{{% resource_link "7c8c532f-aa07-447f-a304-08d80910f07a" "Oscillating Soap Film" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -526,11 +526,11 @@ None
 None
 {{< tdclose >}}{{< tdopen >}}
 
-[Total Internal Reflection](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%202&show=0)
+{{% resource_link "3fec80bc-b8b8-4b52-8d04-3d1625fb7cdb" "Total Internal Reflection" %}}
 
-[Fiber Optic Bundle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%204&show=0)
+{{% resource_link "6d9e555c-ef44-44f0-a1ed-7f904a4de88e" "Fiber Optic Bundle" %}}
 
-[Polarization of Microwaves](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=K%203&show=0)
+{{% resource_link "ffeb8807-beeb-40ca-90de-605309aaac16" "Polarization of Microwaves" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "fbfb11df-c87e-8464-a19b-8f26fb75c77d" "Exam 2" %}} (covers Lecture 9 through Lecture 16)
@@ -573,11 +573,11 @@ None
 None
 {{< tdclose >}}{{< tdopen >}}
 
-[Polarizing Filters and Light](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%201&show=0)
+{{% resource_link "08f1a1c4-05f8-4e3f-9f83-49d95e41a5f8" "Polarizing Filters and Light" %}}
 
-[Polarization in a Sugar Solution](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%208&show=0)
+{{% resource_link "8248d96e-bf9c-4567-ae60-5248a9324394" "Polarization in a Sugar Solution" %}}
 
-[Polarization of Radio Waves (Dipole Antenna)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%2012&show=0)
+{{% resource_link "c1fabd21-297f-4053-b404-f2b4f7de01d0" "Polarization of Radio Waves (Dipole Antenna)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "e069a26e-f953-d236-dc90-bcdcb2466c4e" "Waves in Medium" %}}
@@ -596,7 +596,7 @@ None
 {{< tdclose >}}{{< tdopen >}}
 None
 {{< tdclose >}}{{< tdopen >}}
-[Brewster's Angle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%203&show=0)
+{{% resource_link "29c107dc-ebbe-428a-89f8-05fbe31c34f1" "Brewster's Angle" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "421db63c-9b50-ba46-6bc2-9ae6df431a14" "Interference, Soap Bubble" %}}
 {{< tdclose >}}{{< tdopen >}}
@@ -613,15 +613,15 @@ None
 {{% resource_link "c77a7773-5dfc-b300-8b96-00d8f4987cbd" "Problem Set 10 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
-[Accelerated Charges Radiating Electromagnetic Waves](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/accelerated-charges-radiating-electromagnetic-waves-1)
+{{% resource_link "47a85615-e8d7-4ffc-a05a-7a80f89bb413" "Accelerated Charges Radiating Electromagnetic Waves" %}}
 
-[Interference of Electromagnetic Waves](https://ocw-studio.odl.mit.edu/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/pages/problem-solving-videos/interference-of-electromagnetic-waves-1)
+{{% resource_link "8f3d4212-3f89-4217-8637-7553aa23402f" "Interference of Electromagnetic Waves" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
-[Reflection off Soap Bubbles](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%207&show=0)
+{{% resource_link "cc73513e-d022-46cf-b6b6-fdc6190b2684" "Reflection off Soap Bubbles" %}}
 
-[Reflection off a Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%208&show=0)
+{{% resource_link "5c4b1675-223f-4f84-ac7d-ddae6cd53397" "Reflection off a Soap Film" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "babd702c-f112-1939-a9e0-c02a1d617ddb" "Phased Radar, Single Electron Interference" %}}
@@ -641,11 +641,11 @@ None
 None
 {{< tdclose >}}{{< tdopen >}}
 
-[Ripple Tank (Interference of Two Point Sources)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%201&show=0)
+{{% resource_link "def8581d-9792-46ae-b74c-7540fde71a60" "Ripple Tank (Interference of Two Point Sources)" %}}
 
-[Moiré Pattern](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%202&show=0)
+{{% resource_link "ff2592d0-44a6-4f8d-81f9-43d1e1e79dc1" "Moiré Pattern" %}}
 
-[Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0)
+{{% resource_link "4c3b11a5-28d5-4263-8cd2-ca7f9784d7f9" "Single-Slit Diffraction with a Laser" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "3bf321ed-8bb2-61b1-4279-a2276aff6f51" "Diffraction, Resolution" %}}
@@ -664,7 +664,7 @@ None
 {{< tdclose >}}{{< tdopen >}}
 None
 {{< tdclose >}}{{< tdopen >}}
-[Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0)
+{{% resource_link "4c3b11a5-28d5-4263-8cd2-ca7f9784d7f9" "Single-Slit Diffraction with a Laser" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "95fe7702-7ee0-466a-a181-80c31fa40386" "Quantum Waves and Gravitational Waves" %}}
 {{< tdclose >}}{{< tdopen >}}
