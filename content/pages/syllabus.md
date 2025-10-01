@@ -55,6 +55,6 @@ Georgi, Howard. *The Physics of Waves*. Benjamin Cummings, 1992. ISBN: 978013665
 
 French, A. P. *Vibrations and Waves*. New York: W.W. Norton, 1980. ISBN: 9780393099362.
 
-![Buy at MIT Press](/images/mp_logo.gif) Bekefi, George, and Alan H. Barrett. *Electromagnetic Vibrations, Waves, and Radiation*. MIT Press, 1977. ISBN: 9780262520478. \[Preview with [Google Books](http://books.google.com/books?id=zRfTq6iMdNEC&pg=PAfrontcover)\]
+![Buy at MIT Press](/images/mp_logo.gif) Bekefi, George, and Alan H. Barrett. *Electromagnetic Vibrations, Waves, and Radiation*. MIT Press, 1977. ISBN: 9780262520478. \[Preview with {{% resource_link "43692cf8-1a08-4c5e-b29d-e6e4279b364b" "Google Books" %}}\]
 
 « \[Previous\]({{< baseurl >}}/) | {{% resource_link "04ff44e4-0d34-09c8-726b-f5bd29021df8" "Next" %}} »

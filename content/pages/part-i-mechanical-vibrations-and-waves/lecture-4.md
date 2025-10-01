@@ -61,6 +61,6 @@ SEE IT IN THE LECTURE
 
 ## Related Resources
 
-Video: [Normal Modes](https://phet.colorado.edu/en/simulation/normal-modes) from [PhET Interactive Simulations project at the University of Colorado Boulder](https://phet.colorado.edu/)
+Video: {{% resource_link "69699853-f636-40e0-8738-20a425a4d1f3" "Normal Modes" %}} from {{% resource_link "320bf71b-7201-4191-8263-294d86d4646f" "PhET Interactive Simulations project at the University of Colorado Boulder" %}}
 
 « {{% resource_link "f635ac92-fa89-71e3-6819-2518b537eb93" "Previous" %}} | {{% resource_link "9bc91332-1f00-f352-65f3-aede3364abeb" "Next" %}} »

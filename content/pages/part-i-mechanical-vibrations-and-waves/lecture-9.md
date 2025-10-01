@@ -70,9 +70,9 @@ SEE IT IN THE LECTURE
 
 ## Related Resources
 
-Video: [Air Conditioner Noise](https://www.youtube.com/watch?v=llYbVDzE6aw) by Prof. Yen-Jie Lee
+Video: {{% resource_link "5266ea43-c05a-4ef2-88b9-53d4e790619a" "Air Conditioner Noise" %}} by Prof. Yen-Jie Lee
 
-Video: [Intro to Fourier Series and How to Calculate Them](https://www.youtube.com/watch?v=Cb3HpOf2V1g) by [Dr. Chris Tisdell](https://research.unsw.edu.au/people/associate-professor-chris-tisdell)
+Video: {{% resource_link "1d3d515b-6aad-4224-84f9-544ee0c439f3" "Intro to Fourier Series and How to Calculate Them" %}} by {{% resource_link "13280e71-6bf8-485a-af61-ec2605b17a99" "Dr. Chris Tisdell" %}}
 
 Webpage: [Fourier Series: Basics](/courses/18-03sc-differential-equations-fall-2011/pages/unit-iii-fourier-series-and-laplace-transform/fourier-series-basics) on [OCW’s 18.03SC Differential Equations course](/courses/18-03sc-differential-equations-fall-2011)
 

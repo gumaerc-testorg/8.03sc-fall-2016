@@ -51,7 +51,7 @@ SEE IT IN THE LECTURE
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "180f9e8f-14a9-fd17-0772-c55d7ed05b11" "Physical Pendulum" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Damped and Undamped Masses on a Spring](https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resources/copy5_of_lecture-2-video/)
+{{% resource_link "e166f524-2a74-45b8-95ba-5c31c2f8812d" "Damped and Undamped Masses on a Spring" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "dd3bc867-7f56-a9f6-a6d6-133aa7edcfef" "Driven Torsional Balance Oscillator" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
