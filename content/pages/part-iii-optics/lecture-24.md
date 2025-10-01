@@ -54,6 +54,6 @@ No readings
 Related Resources
 -----------------
 
-[Note on Huygen's Principal (PDF)](http://web.stanford.edu/class/math220a/handouts/waveequation3.pdf) from Stanford University
+{{% resource_link "5f4d3119-416e-4a0a-a0c5-d8dac6a67563" "Note on Huygen's Principal (PDF)" %}} from Stanford University
 
 « {{% resource_link 95fe7702-7ee0-466a-a181-80c31fa40386 "Previous" %}} | {{% resource_link 40206992-200d-017e-ca64-aac5b6b7d1e4 "Next" %}} »
